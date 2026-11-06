@@ -1,0 +1,4489 @@
+[
+{
+"p": 1,
+"ad": "Adana",
+"slug": "adana",
+"bolge": "Akdeniz",
+"nufus": 2283609,
+"giden": 1100541,
+"gelen": 935337,
+"net": -165204,
+"net_binde": -4.19,
+"pm": 20.2,
+"pm_gun": 223,
+"deprem": 1348,
+"deprem_max": 5.0,
+"yangin": 882,
+"yangin_orman": 49,
+"yangin_yil": 2025,
+"isik_artis": 129,
+"sokak": 4582,
+"numara_oran": 85.7,
+"kadin": 12,
+"erkek": 301,
+"kadin_oran": 3.8,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+18
+],
+[
+"Turgut Özal",
+9
+],
+[
+"İsmet İnönü",
+9
+]
+],
+"kadinlar": [
+[
+"Elif Su Uludağ",
+3
+],
+[
+"Suna Kan",
+2
+],
+[
+"Fatma Esma Nayman",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Gök",
+"gun21a": "07:48",
+"bat21a": "17:25",
+"gun21h": "05:19",
+"bat21h": "20:01",
+"gun21a_dk": 468
+},
+{
+"p": 2,
+"ad": "Adıyaman",
+"slug": "adiyaman",
+"bolge": "Güneydoğu Anadolu",
+"nufus": 617821,
+"giden": 424091,
+"gelen": 311985,
+"net": -112106,
+"net_binde": -10.23,
+"pm": null,
+"pm_gun": 52,
+"deprem": 866,
+"deprem_max": 4.2,
+"yangin": 423,
+"yangin_orman": 6,
+"yangin_yil": 2025,
+"isik_artis": 188,
+"sokak": 1848,
+"numara_oran": 84.8,
+"kadin": 1,
+"erkek": 99,
+"kadin_oran": null,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+15
+],
+[
+"Fevzi Çakmak",
+4
+],
+[
+"Fatih Sultan Mehmet",
+3
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+1
+]
+],
+"soy_ilk": "Doğan",
+"soy_ozel": "Bozan",
+"gun21a": "07:38",
+"bat21a": "17:11",
+"gun21h": "05:05",
+"bat21h": "19:52",
+"gun21a_dk": 458
+},
+{
+"p": 3,
+"ad": "Afyonkarahisar",
+"slug": "afyonkarahisar",
+"bolge": "Ege",
+"nufus": 751808,
+"giden": 442246,
+"gelen": 396425,
+"net": -45821,
+"net_binde": -3.53,
+"pm": null,
+"pm_gun": null,
+"deprem": 259,
+"deprem_max": 4.1,
+"yangin": 673,
+"yangin_orman": 62,
+"yangin_yil": 2025,
+"isik_artis": 175,
+"sokak": 2068,
+"numara_oran": 53.7,
+"kadin": 7,
+"erkek": 291,
+"kadin_oran": 2.3,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+11
+],
+[
+"Fatih Sultan Mehmet",
+9
+],
+[
+"Mevlana Celaleddin Rumi",
+9
+]
+],
+"kadinlar": [
+[
+"Asiye Sultan",
+2
+],
+[
+"Fatıma Zehra",
+2
+],
+[
+"Nilüfer Hatun",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Öz",
+"gun21a": "08:12",
+"bat21a": "17:39",
+"gun21h": "05:33",
+"bat21h": "20:26",
+"gun21a_dk": 492
+},
+{
+"p": 4,
+"ad": "Ağrı",
+"slug": "agri",
+"bolge": "Doğu Anadolu",
+"nufus": 491489,
+"giden": 525612,
+"gelen": 278242,
+"net": -247370,
+"net_binde": -25.78,
+"pm": null,
+"pm_gun": null,
+"deprem": 73,
+"deprem_max": 3.6,
+"yangin": 190,
+"yangin_orman": 0,
+"yangin_yil": 2025,
+"isik_artis": 263,
+"sokak": 95,
+"numara_oran": 77.9,
+"kadin": 0,
+"erkek": 7,
+"kadin_oran": null,
+"kisiler": [
+[
+"Yunus Emre",
+2
+],
+[
+"Rıfkı Başkaya",
+1
+],
+[
+"Fevzi Çakmak",
+1
+]
+],
+"kadinlar": [],
+"soy_ilk": "Kaya",
+"soy_ozel": "Taşdemir",
+"gun21a": "07:25",
+"bat21a": "16:46",
+"gun21h": "04:40",
+"bat21h": "19:39",
+"gun21a_dk": 445
+},
+{
+"p": 5,
+"ad": "Amasya",
+"slug": "amasya",
+"bolge": "Karadeniz",
+"nufus": 342242,
+"giden": 253697,
+"gelen": 245124,
+"net": -8573,
+"net_binde": -1.44,
+"pm": 25.1,
+"pm_gun": 258,
+"deprem": 56,
+"deprem_max": 3.8,
+"yangin": 81,
+"yangin_orman": 3,
+"yangin_yil": 2025,
+"isik_artis": 196,
+"sokak": 1398,
+"numara_oran": 0.0,
+"kadin": 12,
+"erkek": 276,
+"kadin_oran": 4.2,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+8
+],
+[
+"Zübeyde Hanım",
+4
+],
+[
+"Fatih Sultan Mehmet",
+4
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+4
+],
+[
+"Kümbet Hatun",
+1
+],
+[
+"Cihan Hatun",
+1
+]
+],
+"soy_ilk": "Şahin",
+"soy_ozel": "Bolat",
+"gun21a": "07:57",
+"bat21a": "17:12",
+"gun21h": "05:05",
+"bat21h": "20:11",
+"gun21a_dk": 477
+},
+{
+"p": 6,
+"ad": "Ankara",
+"slug": "ankara",
+"bolge": "İç Anadolu",
+"nufus": 5910320,
+"giden": 2802014,
+"gelen": 3367503,
+"net": 565489,
+"net_binde": 5.89,
+"pm": 12.6,
+"pm_gun": 103,
+"deprem": 707,
+"deprem_max": 3.9,
+"yangin": 290,
+"yangin_orman": 3,
+"yangin_yil": 2025,
+"isik_artis": 97,
+"sokak": 19055,
+"numara_oran": 52.3,
+"kadin": 52,
+"erkek": 1850,
+"kadin_oran": 2.7,
+"kisiler": [
+[
+"Fatih Sultan Mehmet",
+45
+],
+[
+"Mustafa Kemal Atatürk",
+36
+],
+[
+"Mevlana Celaleddin Rumi",
+26
+]
+],
+"kadinlar": [
+[
+"Nene Hatun",
+6
+],
+[
+"Şenay Aybüke Yalçın",
+3
+],
+[
+"Halide Edip Adıvar",
+3
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Koçak",
+"gun21a": "08:06",
+"bat21a": "17:26",
+"gun21h": "05:20",
+"bat21h": "20:20",
+"gun21a_dk": 486
+},
+{
+"p": 7,
+"ad": "Antalya",
+"slug": "antalya",
+"bolge": "Akdeniz",
+"nufus": 2777677,
+"giden": 1243310,
+"gelen": 1642904,
+"net": 399594,
+"net_binde": 9.46,
+"pm": 16.2,
+"pm_gun": 194,
+"deprem": 323,
+"deprem_max": 4.3,
+"yangin": 328,
+"yangin_orman": 200,
+"yangin_yil": 2025,
+"isik_artis": 149,
+"sokak": 5604,
+"numara_oran": 66.9,
+"kadin": 16,
+"erkek": 462,
+"kadin_oran": 3.3,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+53
+],
+[
+"Adnan Menderes",
+13
+],
+[
+"Fatih Sultan Mehmet",
+11
+]
+],
+"kadinlar": [
+[
+"Gönül Reisoğlu",
+2
+],
+[
+"Halide Edip Adıvar",
+2
+],
+[
+"Beyhan Cenkçi",
+2
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Aksoy",
+"gun21a": "08:06",
+"bat21a": "17:44",
+"gun21h": "05:38",
+"bat21h": "20:19",
+"gun21a_dk": 486
+},
+{
+"p": 8,
+"ad": "Artvin",
+"slug": "artvin",
+"bolge": "Karadeniz",
+"nufus": 167531,
+"giden": 165120,
+"gelen": 157277,
+"net": -7843,
+"net_binde": -2.58,
+"pm": 12.1,
+"pm_gun": 56,
+"deprem": 42,
+"deprem_max": 2.2,
+"yangin": 4,
+"yangin_orman": 0,
+"yangin_yil": 2025,
+"isik_artis": 237,
+"sokak": 328,
+"numara_oran": 14.3,
+"kadin": 2,
+"erkek": 97,
+"kadin_oran": null,
+"kisiler": [
+[
+"İsmet İnönü",
+4
+],
+[
+"Fevzi Çakmak",
+3
+],
+[
+"Kazım Karabekir",
+3
+]
+],
+"kadinlar": [
+[
+"Bahriye Üçok",
+1
+],
+[
+"Adile Naşit",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Ustabaş",
+"gun21a": "07:34",
+"bat21a": "16:47",
+"gun21h": "04:40",
+"bat21h": "19:48",
+"gun21a_dk": 454
+},
+{
+"p": 9,
+"ad": "Aydın",
+"slug": "aydin",
+"bolge": "Ege",
+"nufus": 1172107,
+"giden": 602455,
+"gelen": 708912,
+"net": 106457,
+"net_binde": 5.51,
+"pm": null,
+"pm_gun": null,
+"deprem": 353,
+"deprem_max": 3.9,
+"yangin": 223,
+"yangin_orman": 48,
+"yangin_yil": 2025,
+"isik_artis": 120,
+"sokak": 3072,
+"numara_oran": 61.6,
+"kadin": 9,
+"erkek": 255,
+"kadin_oran": 3.4,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+29
+],
+[
+"Adnan Menderes",
+11
+],
+[
+"İsmet İnönü",
+11
+]
+],
+"kadinlar": [
+[
+"Eda Okyay",
+1
+],
+[
+"Hülya Koçyiğit",
+1
+],
+[
+"Halide Hatun",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Tosun",
+"gun21a": "08:20",
+"bat21a": "17:53",
+"gun21h": "05:46",
+"bat21h": "20:34",
+"gun21a_dk": 500
+},
+{
+"p": 10,
+"ad": "Balıkesir",
+"slug": "balikesir",
+"bolge": "Marmara",
+"nufus": 1284517,
+"giden": 691430,
+"gelen": 793656,
+"net": 102226,
+"net_binde": 4.71,
+"pm": 14.8,
+"pm_gun": 118,
+"deprem": 11504,
+"deprem_max": 4.9,
+"yangin": 346,
+"yangin_orman": 50,
+"yangin_yil": 2025,
+"isik_artis": 155,
+"sokak": 7834,
+"numara_oran": 51.1,
+"kadin": 59,
+"erkek": 780,
+"kadin_oran": 7.0,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+42
+],
+[
+"İsmet İnönü",
+18
+],
+[
+"Barbaros Hayreddin Paşa",
+17
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+14
+],
+[
+"Neyire Sıtkı",
+3
+],
+[
+"Leman Akpınar",
+2
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Deniz",
+"gun21a": "08:25",
+"bat21a": "17:47",
+"gun21h": "05:40",
+"bat21h": "20:39",
+"gun21a_dk": 505
+},
+{
+"p": 11,
+"ad": "Bilecik",
+"slug": "bilecik",
+"bolge": "Marmara",
+"nufus": 228995,
+"giden": 171959,
+"gelen": 187275,
+"net": 15316,
+"net_binde": 3.92,
+"pm": 17.1,
+"pm_gun": 185,
+"deprem": 66,
+"deprem_max": 3.6,
+"yangin": 455,
+"yangin_orman": 390,
+"yangin_yil": 2025,
+"isik_artis": 138,
+"sokak": 135,
+"numara_oran": 1.5,
+"kadin": 1,
+"erkek": 36,
+"kadin_oran": null,
+"kisiler": [
+[
+"Ertuğrul Gazi",
+4
+],
+[
+"İsmet İnönü",
+3
+],
+[
+"Mustafa Kemal Atatürk",
+2
+]
+],
+"kadinlar": [
+[
+"Melek Hatun",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Güven",
+"gun21a": "08:19",
+"bat21a": "17:37",
+"gun21h": "05:30",
+"bat21h": "20:32",
+"gun21a_dk": 499
+},
+{
+"p": 12,
+"ad": "Bingöl",
+"slug": "bingol",
+"bolge": "Doğu Anadolu",
+"nufus": 282299,
+"giden": 219185,
+"gelen": 189230,
+"net": -29955,
+"net_binde": -6.12,
+"pm": null,
+"pm_gun": null,
+"deprem": 338,
+"deprem_max": 4.3,
+"yangin": 50,
+"yangin_orman": 0,
+"yangin_yil": 2025,
+"isik_artis": 294,
+"sokak": 87,
+"numara_oran": 8.0,
+"kadin": 0,
+"erkek": 15,
+"kadin_oran": null,
+"kisiler": [
+[
+"Şehit Mehmet Türksever",
+3
+],
+[
+"Yaşar Karabey",
+1
+],
+[
+"Harun Önalan",
+1
+]
+],
+"kadinlar": [],
+"soy_ilk": "Kaya",
+"soy_ozel": "Kızılboğa",
+"gun21a": "07:33",
+"bat21a": "16:59",
+"gun21h": "04:52",
+"bat21h": "19:46",
+"gun21a_dk": 453
+},
+{
+"p": 13,
+"ad": "Bitlis",
+"slug": "bitlis",
+"bolge": "Doğu Anadolu",
+"nufus": 360423,
+"giden": 321105,
+"gelen": 234942,
+"net": -86163,
+"net_binde": -13.92,
+"pm": null,
+"pm_gun": null,
+"deprem": 160,
+"deprem_max": 4.3,
+"yangin": 78,
+"yangin_orman": 3,
+"yangin_yil": 2025,
+"isik_artis": 255,
+"sokak": 123,
+"numara_oran": 7.3,
+"kadin": 0,
+"erkek": 26,
+"kadin_oran": null,
+"kisiler": [
+[
+"Ahmet Eren",
+3
+],
+[
+"Fatih Sultan Mehmet",
+2
+],
+[
+"Kazım Karabekir",
+2
+]
+],
+"kadinlar": [],
+"soy_ilk": "Demir",
+"soy_ozel": "Kardaş",
+"gun21a": "07:25",
+"bat21a": "16:54",
+"gun21h": "04:47",
+"bat21h": "19:38",
+"gun21a_dk": 445
+},
+{
+"p": 14,
+"ad": "Bolu",
+"slug": "bolu",
+"bolge": "Karadeniz",
+"nufus": 327173,
+"giden": 228425,
+"gelen": 259920,
+"net": 31495,
+"net_binde": 5.84,
+"pm": 16.5,
+"pm_gun": 150,
+"deprem": 285,
+"deprem_max": 3.0,
+"yangin": 35,
+"yangin_orman": 9,
+"yangin_yil": 2025,
+"isik_artis": 171,
+"sokak": 391,
+"numara_oran": 10.0,
+"kadin": 1,
+"erkek": 88,
+"kadin_oran": null,
+"kisiler": [
+[
+"İzzet Baysal",
+5
+],
+[
+"İsmet İnönü",
+4
+],
+[
+"Fatih Sultan Mehmet",
+3
+]
+],
+"kadinlar": [
+[
+"Behiye Baysal",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Yerlikaya",
+"gun21a": "08:14",
+"bat21a": "17:29",
+"gun21h": "05:22",
+"bat21h": "20:28",
+"gun21a_dk": 494
+},
+{
+"p": 15,
+"ad": "Burdur",
+"slug": "burdur",
+"bolge": "Akdeniz",
+"nufus": 277226,
+"giden": 205585,
+"gelen": 214851,
+"net": 9266,
+"net_binde": 1.95,
+"pm": 15.9,
+"pm_gun": 128,
+"deprem": 96,
+"deprem_max": 3.1,
+"yangin": 42,
+"yangin_orman": 0,
+"yangin_yil": 2025,
+"isik_artis": 216,
+"sokak": 150,
+"numara_oran": 12.0,
+"kadin": 0,
+"erkek": 38,
+"kadin_oran": null,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+5
+],
+[
+"Mehmet Akif Ersoy",
+2
+],
+[
+"Fatih Sultan Mehmet",
+2
+]
+],
+"kadinlar": [],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Erdem",
+"gun21a": "08:10",
+"bat21a": "17:43",
+"gun21h": "05:37",
+"bat21h": "20:23",
+"gun21a_dk": 490
+},
+{
+"p": 16,
+"ad": "Bursa",
+"slug": "bursa",
+"bolge": "Marmara",
+"nufus": 3263011,
+"giden": 1171372,
+"gelen": 1454906,
+"net": 283534,
+"net_binde": 5.41,
+"pm": 23.2,
+"pm_gun": 258,
+"deprem": 286,
+"deprem_max": 3.8,
+"yangin": 533,
+"yangin_orman": 309,
+"yangin_yil": 2025,
+"isik_artis": 108,
+"sokak": 17647,
+"numara_oran": 17.8,
+"kadin": 46,
+"erkek": 1262,
+"kadin_oran": 3.5,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+41
+],
+[
+"Fatih Sultan Mehmet",
+34
+],
+[
+"Yavuz Sultan Selim",
+28
+]
+],
+"kadinlar": [
+[
+"Nene Hatun",
+7
+],
+[
+"Nilüfer Hatun",
+5
+],
+[
+"Zübeyde Hanım",
+2
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Mutlu",
+"gun21a": "08:22",
+"bat21a": "17:41",
+"gun21h": "05:34",
+"bat21h": "20:36",
+"gun21a_dk": 502
+},
+{
+"p": 17,
+"ad": "Çanakkale",
+"slug": "canakkale",
+"bolge": "Marmara",
+"nufus": 573976,
+"giden": 343758,
+"gelen": 433067,
+"net": 89309,
+"net_binde": 9.45,
+"pm": 14.1,
+"pm_gun": 123,
+"deprem": 770,
+"deprem_max": 3.7,
+"yangin": 550,
+"yangin_orman": 310,
+"yangin_yil": 2025,
+"isik_artis": 177,
+"sokak": 1390,
+"numara_oran": 10.3,
+"kadin": 19,
+"erkek": 394,
+"kadin_oran": 4.6,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+12
+],
+[
+"İsmet İnönü",
+12
+],
+[
+"Piri Reis",
+6
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+4
+],
+[
+"Azize Ünsal",
+1
+],
+[
+"Bahriye Üçok",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Yavaş",
+"gun21a": "08:33",
+"bat21a": "17:52",
+"gun21h": "05:45",
+"bat21h": "20:47",
+"gun21a_dk": 513
+},
+{
+"p": 18,
+"ad": "Çankırı",
+"slug": "cankiri",
+"bolge": "İç Anadolu",
+"nufus": 200549,
+"giden": 277939,
+"gelen": 291456,
+"net": 13517,
+"net_binde": 3.94,
+"pm": 6.5,
+"pm_gun": 13,
+"deprem": 123,
+"deprem_max": 4.3,
+"yangin": 99,
+"yangin_orman": 6,
+"yangin_yil": 2025,
+"isik_artis": 275,
+"sokak": 269,
+"numara_oran": 0.4,
+"kadin": 4,
+"erkek": 85,
+"kadin_oran": null,
+"kisiler": [
+[
+"Gazi Osman Paşa",
+4
+],
+[
+"Mustafa Kemal Atatürk",
+4
+],
+[
+"Ziya Gökalp",
+3
+]
+],
+"kadinlar": [
+[
+"BANU HATUN",
+2
+],
+[
+"Zübeyde Hanım",
+1
+],
+[
+"ELİF BACI",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Çağlar",
+"gun21a": "08:06",
+"bat21a": "17:22",
+"gun21h": "05:15",
+"bat21h": "20:20",
+"gun21a_dk": 486
+},
+{
+"p": 19,
+"ad": "Çorum",
+"slug": "corum",
+"bolge": "Karadeniz",
+"nufus": 519590,
+"giden": 384501,
+"gelen": 308268,
+"net": -76233,
+"net_binde": -7.99,
+"pm": 18.7,
+"pm_gun": 135,
+"deprem": 191,
+"deprem_max": 4.1,
+"yangin": 193,
+"yangin_orman": 1,
+"yangin_yil": 2025,
+"isik_artis": 198,
+"sokak": 493,
+"numara_oran": 4.5,
+"kadin": 1,
+"erkek": 108,
+"kadin_oran": null,
+"kisiler": [
+[
+"Ahmet Yesevi",
+5
+],
+[
+"Devlet Bahçeli",
+4
+],
+[
+"Cengiz Topel",
+4
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+1
+]
+],
+"soy_ilk": "Şahin",
+"soy_ozel": "Eker",
+"gun21a": "08:00",
+"bat21a": "17:16",
+"gun21h": "05:09",
+"bat21h": "20:14",
+"gun21a_dk": 480
+},
+{
+"p": 20,
+"ad": "Denizli",
+"slug": "denizli",
+"bolge": "Ege",
+"nufus": 1060975,
+"giden": 447306,
+"gelen": 473961,
+"net": 26655,
+"net_binde": 1.48,
+"pm": null,
+"pm_gun": 32,
+"deprem": 1060,
+"deprem_max": 5.1,
+"yangin": 422,
+"yangin_orman": 151,
+"yangin_yil": 2025,
+"isik_artis": 118,
+"sokak": 4758,
+"numara_oran": 78.5,
+"kadin": 9,
+"erkek": 266,
+"kadin_oran": 3.3,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+19
+],
+[
+"Adnan Menderes",
+13
+],
+[
+"Fevzi Çakmak",
+10
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+5
+],
+[
+"Gül Yeni",
+1
+],
+[
+"Şehit Ayşe Konakçı",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Akyol",
+"gun21a": "08:15",
+"bat21a": "17:48",
+"gun21h": "05:41",
+"bat21h": "20:28",
+"gun21a_dk": 495
+},
+{
+"p": 21,
+"ad": "Diyarbakır",
+"slug": "diyarbakir",
+"bolge": "Güneydoğu Anadolu",
+"nufus": 1852356,
+"giden": 916779,
+"gelen": 702772,
+"net": -214007,
+"net_binde": -7.05,
+"pm": 22.0,
+"pm_gun": 200,
+"deprem": 93,
+"deprem_max": 3.5,
+"yangin": 874,
+"yangin_orman": 0,
+"yangin_yil": 2025,
+"isik_artis": 150,
+"sokak": 1062,
+"numara_oran": 75.0,
+"kadin": 5,
+"erkek": 64,
+"kadin_oran": null,
+"kisiler": [
+[
+"Necmettin Erbakan",
+4
+],
+[
+"Nazım Hikmet Ran",
+3
+],
+[
+"Abdülkadir Aksu",
+3
+]
+],
+"kadinlar": [
+[
+"Evrim Alataş",
+2
+],
+[
+"Nükhet Coşkun",
+1
+],
+[
+"Şair Sırrı Hanım",
+1
+]
+],
+"soy_ilk": "Kaya",
+"soy_ozel": "Güzel",
+"gun21a": "07:31",
+"bat21a": "17:03",
+"gun21h": "04:57",
+"bat21h": "19:44",
+"gun21a_dk": 451
+},
+{
+"p": 22,
+"ad": "Edirne",
+"slug": "edirne",
+"bolge": "Marmara",
+"nufus": 422438,
+"giden": 283978,
+"gelen": 299732,
+"net": 15754,
+"net_binde": 2.15,
+"pm": 20.0,
+"pm_gun": 207,
+"deprem": 15,
+"deprem_max": 2.5,
+"yangin": 373,
+"yangin_orman": 35,
+"yangin_yil": 2025,
+"isik_artis": 122,
+"sokak": 2206,
+"numara_oran": 8.8,
+"kadin": 31,
+"erkek": 519,
+"kadin_oran": 5.6,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+12
+],
+[
+"İsmet İnönü",
+5
+],
+[
+"Mimar Sinan",
+5
+]
+],
+"kadinlar": [
+[
+"Bahriye Üçok",
+3
+],
+[
+"Zübeyde Hanım",
+2
+],
+[
+"Hatice Hatun",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Engin",
+"gun21a": "08:37",
+"bat21a": "17:46",
+"gun21h": "05:39",
+"bat21h": "20:51",
+"gun21a_dk": 517
+},
+{
+"p": 23,
+"ad": "Elazığ",
+"slug": "elazig",
+"bolge": "Doğu Anadolu",
+"nufus": 605678,
+"giden": 391121,
+"gelen": 365762,
+"net": -25359,
+"net_binde": -2.44,
+"pm": null,
+"pm_gun": 38,
+"deprem": 863,
+"deprem_max": 4.7,
+"yangin": 117,
+"yangin_orman": 0,
+"yangin_yil": 2025,
+"isik_artis": 192,
+"sokak": 311,
+"numara_oran": 14.1,
+"kadin": 1,
+"erkek": 94,
+"kadin_oran": null,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+4
+],
+[
+"Cahit Dalokay",
+3
+],
+[
+"İsmet İnönü",
+3
+]
+],
+"kadinlar": [
+[
+"Sara Hatun",
+1
+]
+],
+"soy_ilk": "Yıldırım",
+"soy_ozel": "Karabulut",
+"gun21a": "07:37",
+"bat21a": "17:05",
+"gun21h": "04:58",
+"bat21h": "19:51",
+"gun21a_dk": 457
+},
+{
+"p": 24,
+"ad": "Erzincan",
+"slug": "erzincan",
+"bolge": "Doğu Anadolu",
+"nufus": 239625,
+"giden": 253860,
+"gelen": 252304,
+"net": -1556,
+"net_binde": -0.38,
+"pm": 13.0,
+"pm_gun": 80,
+"deprem": 359,
+"deprem_max": 4.8,
+"yangin": 44,
+"yangin_orman": 0,
+"yangin_yil": 2025,
+"isik_artis": 231,
+"sokak": 259,
+"numara_oran": 33.2,
+"kadin": 2,
+"erkek": 50,
+"kadin_oran": null,
+"kisiler": [
+[
+"Mimar Sinan",
+4
+],
+[
+"Recep Tayyip Erdoğan",
+3
+],
+[
+"Uğur Mumcu",
+3
+]
+],
+"kadinlar": [
+[
+"Tugay Hatun",
+1
+],
+[
+"Zübeyde Hanım",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Karadağ",
+"gun21a": "07:39",
+"bat21a": "17:00",
+"gun21h": "04:54",
+"bat21h": "19:53",
+"gun21a_dk": 459
+},
+{
+"p": 25,
+"ad": "Erzurum",
+"slug": "erzurum",
+"bolge": "Doğu Anadolu",
+"nufus": 736877,
+"giden": 666069,
+"gelen": 464434,
+"net": -201635,
+"net_binde": -14.7,
+"pm": 18.8,
+"pm_gun": 152,
+"deprem": 419,
+"deprem_max": 3.5,
+"yangin": 107,
+"yangin_orman": 0,
+"yangin_yil": 2025,
+"isik_artis": 200,
+"sokak": 354,
+"numara_oran": 9.0,
+"kadin": 2,
+"erkek": 72,
+"kadin_oran": null,
+"kisiler": [
+[
+"Fatih Sultan Mehmet",
+6
+],
+[
+"Mustafa Kemal Atatürk",
+5
+],
+[
+"Alparslan Türkeş",
+4
+]
+],
+"kadinlar": [
+[
+"Fehime Bilge",
+1
+],
+[
+"Nene Hatun",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Bingöl",
+"gun21a": "07:33",
+"bat21a": "16:53",
+"gun21h": "04:46",
+"bat21h": "19:46",
+"gun21a_dk": 453
+},
+{
+"p": 26,
+"ad": "Eskişehir",
+"slug": "eskisehir",
+"bolge": "İç Anadolu",
+"nufus": 927956,
+"giden": 504205,
+"gelen": 631379,
+"net": 127174,
+"net_binde": 8.37,
+"pm": 12.0,
+"pm_gun": 82,
+"deprem": 45,
+"deprem_max": 2.1,
+"yangin": 220,
+"yangin_orman": 6,
+"yangin_yil": 2025,
+"isik_artis": 135,
+"sokak": 3598,
+"numara_oran": 4.5,
+"kadin": 11,
+"erkek": 301,
+"kadin_oran": 3.5,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+14
+],
+[
+"İsmet İnönü",
+7
+],
+[
+"Turgut Reis",
+4
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+3
+],
+[
+"Güzide Hanım",
+1
+],
+[
+"Adalet Ağaoğlu",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Yüksel",
+"gun21a": "08:15",
+"bat21a": "17:36",
+"gun21h": "05:29",
+"bat21h": "20:29",
+"gun21a_dk": 495
+},
+{
+"p": 27,
+"ad": "Gaziantep",
+"slug": "gaziantep",
+"bolge": "Güneydoğu Anadolu",
+"nufus": 2222415,
+"giden": 861403,
+"gelen": 844845,
+"net": -16558,
+"net_binde": -0.47,
+"pm": null,
+"pm_gun": 50,
+"deprem": 215,
+"deprem_max": 4.6,
+"yangin": 221,
+"yangin_orman": 9,
+"yangin_yil": 2025,
+"isik_artis": 171,
+"sokak": 1141,
+"numara_oran": 69.1,
+"kadin": 9,
+"erkek": 167,
+"kadin_oran": null,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+5
+],
+[
+"Sani Konukoğlu",
+3
+],
+[
+"Çetin Emeç",
+2
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+2
+],
+[
+"Halide Edip Adıvar",
+2
+],
+[
+"Nükhet Celal Ersoy",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Yaşar",
+"gun21a": "07:40",
+"bat21a": "17:17",
+"gun21h": "05:10",
+"bat21h": "19:53",
+"gun21a_dk": 460
+},
+{
+"p": 28,
+"ad": "Giresun",
+"slug": "giresun",
+"bolge": "Karadeniz",
+"nufus": 455074,
+"giden": 397623,
+"gelen": 415379,
+"net": 17756,
+"net_binde": 2.25,
+"pm": 11.9,
+"pm_gun": 76,
+"deprem": 27,
+"deprem_max": 2.7,
+"yangin": 6,
+"yangin_orman": 6,
+"yangin_yil": 2025,
+"isik_artis": 259,
+"sokak": 136,
+"numara_oran": 2.2,
+"kadin": 4,
+"erkek": 33,
+"kadin_oran": null,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+5
+],
+[
+"Bektaş Giresun",
+3
+],
+[
+"Amiral Şükrü Okan",
+2
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+2
+],
+[
+"İdil Biret",
+1
+],
+[
+"Güzide Sabri Aygün",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Akkaya",
+"gun21a": "07:47",
+"bat21a": "17:01",
+"gun21h": "04:54",
+"bat21h": "20:01",
+"gun21a_dk": 467
+},
+{
+"p": 29,
+"ad": "Gümüşhane",
+"slug": "gumushane",
+"bolge": "Karadeniz",
+"nufus": 138807,
+"giden": 278405,
+"gelen": 275439,
+"net": -2966,
+"net_binde": -1.13,
+"pm": null,
+"pm_gun": null,
+"deprem": 73,
+"deprem_max": 3.2,
+"yangin": 12,
+"yangin_orman": 3,
+"yangin_yil": 2025,
+"isik_artis": 305,
+"sokak": 302,
+"numara_oran": 0.3,
+"kadin": 4,
+"erkek": 43,
+"kadin_oran": null,
+"kisiler": [
+[
+"Aydın Doğan",
+3
+],
+[
+"Zübeyde Hanım",
+3
+],
+[
+"Necip Fazıl Kısakürek",
+3
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+3
+],
+[
+"Nene Hatun",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Meral",
+"gun21a": "07:42",
+"bat21a": "16:58",
+"gun21h": "04:51",
+"bat21h": "19:55",
+"gun21a_dk": 462
+},
+{
+"p": 30,
+"ad": "Hakkari",
+"slug": "hakkari",
+"bolge": "Doğu Anadolu",
+"nufus": 279681,
+"giden": 201506,
+"gelen": 148813,
+"net": -52693,
+"net_binde": -10.66,
+"pm": null,
+"pm_gun": null,
+"deprem": 42,
+"deprem_max": 3.1,
+"yangin": 154,
+"yangin_orman": 5,
+"yangin_yil": 2025,
+"isik_artis": 293,
+"sokak": 217,
+"numara_oran": 52.1,
+"kadin": 0,
+"erkek": 15,
+"kadin_oran": null,
+"kisiler": [
+[
+"Hacı Ömer Sabancı",
+2
+],
+[
+"Sırrı Süreyya Önder",
+1
+],
+[
+"Mustafa Kemal Atatürk",
+1
+]
+],
+"kadinlar": [],
+"soy_ilk": "Kaya",
+"soy_ozel": "Akdoğan",
+"gun21a": "07:16",
+"bat21a": "16:50",
+"gun21h": "04:43",
+"bat21h": "19:29",
+"gun21a_dk": 436
+},
+{
+"p": 31,
+"ad": "Hatay",
+"slug": "hatay",
+"bolge": "Akdeniz",
+"nufus": 1577531,
+"giden": 838961,
+"gelen": 630143,
+"net": -208818,
+"net_binde": -7.48,
+"pm": 12.0,
+"pm_gun": 42,
+"deprem": 271,
+"deprem_max": 4.2,
+"yangin": 529,
+"yangin_orman": 218,
+"yangin_yil": 2025,
+"isik_artis": 158,
+"sokak": 3017,
+"numara_oran": 56.1,
+"kadin": 16,
+"erkek": 457,
+"kadin_oran": 3.4,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+38
+],
+[
+"Uğur Mumcu",
+12
+],
+[
+"İsmet İnönü",
+11
+]
+],
+"kadinlar": [
+[
+"Ayşe Fitnat Hanım",
+3
+],
+[
+"Hanife Soylu",
+2
+],
+[
+"Nuriye Civelek",
+2
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Şanverdi",
+"gun21a": "07:42",
+"bat21a": "17:24",
+"gun21h": "05:18",
+"bat21h": "19:56",
+"gun21a_dk": 462
+},
+{
+"p": 32,
+"ad": "Isparta",
+"slug": "isparta",
+"bolge": "Akdeniz",
+"nufus": 445303,
+"giden": 335049,
+"gelen": 344875,
+"net": 9826,
+"net_binde": 1.26,
+"pm": null,
+"pm_gun": null,
+"deprem": 106,
+"deprem_max": 2.7,
+"yangin": 106,
+"yangin_orman": 12,
+"yangin_yil": 2025,
+"isik_artis": 161,
+"sokak": 2287,
+"numara_oran": 80.0,
+"kadin": 5,
+"erkek": 168,
+"kadin_oran": null,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+5
+],
+[
+"Alparslan Türkeş",
+5
+],
+[
+"Adnan Menderes",
+3
+]
+],
+"kadinlar": [
+[
+"Esma Sultan",
+2
+],
+[
+"Avukat Fatma Sevük",
+1
+],
+[
+"Zübeyde Hanım",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Gürdal",
+"gun21a": "08:09",
+"bat21a": "17:42",
+"gun21h": "05:36",
+"bat21h": "20:23",
+"gun21a_dk": 489
+},
+{
+"p": 33,
+"ad": "Mersin",
+"slug": "mersin",
+"bolge": "Akdeniz",
+"nufus": 1956428,
+"giden": 981804,
+"gelen": 997209,
+"net": 15405,
+"net_binde": 0.48,
+"pm": 19.1,
+"pm_gun": 138,
+"deprem": 117,
+"deprem_max": 3.7,
+"yangin": 621,
+"yangin_orman": 410,
+"yangin_yil": 2025,
+"isik_artis": 165,
+"sokak": 6037,
+"numara_oran": 78.0,
+"kadin": 13,
+"erkek": 417,
+"kadin_oran": 3.0,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+37
+],
+[
+"İsmet İnönü",
+17
+],
+[
+"Alparslan Türkeş",
+13
+]
+],
+"kadinlar": [
+[
+"Nene Hatun",
+3
+],
+[
+"Halide Edip Adıvar",
+3
+],
+[
+"Zehra Marulyalı",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Gök",
+"gun21a": "07:50",
+"bat21a": "17:29",
+"gun21h": "05:22",
+"bat21h": "20:03",
+"gun21a_dk": 470
+},
+{
+"p": 34,
+"ad": "İstanbul",
+"slug": "istanbul",
+"bolge": "Marmara",
+"nufus": 15754053,
+"giden": 7283473,
+"gelen": 7275842,
+"net": -7631,
+"net_binde": -0.03,
+"pm": 16.6,
+"pm_gun": 168,
+"deprem": 109,
+"deprem_max": 2.8,
+"yangin": 109,
+"yangin_orman": 6,
+"yangin_yil": 2025,
+"isik_artis": 61,
+"sokak": 52271,
+"numara_oran": 16.1,
+"kadin": 271,
+"erkek": 5780,
+"kadin_oran": 4.5,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+132
+],
+[
+"Fatih Sultan Mehmet",
+83
+],
+[
+"Yavuz Sultan Selim",
+66
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+17
+],
+[
+"Nene Hatun",
+15
+],
+[
+"Halide Edip Adıvar",
+9
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Güler",
+"gun21a": "08:25",
+"bat21a": "17:39",
+"gun21h": "05:32",
+"bat21h": "20:39",
+"gun21a_dk": 505
+},
+{
+"p": 35,
+"ad": "İzmir",
+"slug": "izmir",
+"bolge": "Ege",
+"nufus": 4504185,
+"giden": 1844281,
+"gelen": 2176483,
+"net": 332202,
+"net_binde": 4.38,
+"pm": 30.6,
+"pm_gun": 359,
+"deprem": 1019,
+"deprem_max": 3.8,
+"yangin": 1771,
+"yangin_orman": 692,
+"yangin_yil": 2025,
+"isik_artis": 79,
+"sokak": 20216,
+"numara_oran": 78.7,
+"kadin": 63,
+"erkek": 1209,
+"kadin_oran": 5.0,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+86
+],
+[
+"Fevzi Çakmak",
+27
+],
+[
+"İsmet İnönü",
+25
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+7
+],
+[
+"Halide Edip Adıvar",
+6
+],
+[
+"Nene Hatun",
+5
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Turan",
+"gun21a": "08:25",
+"bat21a": "17:54",
+"gun21h": "05:47",
+"bat21h": "20:38",
+"gun21a_dk": 505
+},
+{
+"p": 36,
+"ad": "Kars",
+"slug": "kars",
+"bolge": "Doğu Anadolu",
+"nufus": 268991,
+"giden": 302566,
+"gelen": 193859,
+"net": -108707,
+"net_binde": -20.77,
+"pm": 18.6,
+"pm_gun": 166,
+"deprem": 73,
+"deprem_max": 4.3,
+"yangin": 52,
+"yangin_orman": 0,
+"yangin_yil": 2025,
+"isik_artis": 160,
+"sokak": 120,
+"numara_oran": 23.3,
+"kadin": 2,
+"erkek": 47,
+"kadin_oran": null,
+"kisiler": [
+[
+"Haydar Aliyev",
+3
+],
+[
+"Faik Aksoy",
+3
+],
+[
+"Gazi Ahmet Muhtar Paşa",
+2
+]
+],
+"kadinlar": [
+[
+"Neşe Doster",
+1
+],
+[
+"Vasfiye Eriş",
+1
+]
+],
+"soy_ilk": "Kaya",
+"soy_ozel": "Oğul",
+"gun21a": "07:28",
+"bat21a": "16:43",
+"gun21h": "04:36",
+"bat21h": "19:41",
+"gun21a_dk": 448
+},
+{
+"p": 37,
+"ad": "Kastamonu",
+"slug": "kastamonu",
+"bolge": "Karadeniz",
+"nufus": 379934,
+"giden": 308268,
+"gelen": 328040,
+"net": 19772,
+"net_binde": 2.95,
+"pm": null,
+"pm_gun": 4,
+"deprem": 48,
+"deprem_max": 2.7,
+"yangin": 176,
+"yangin_orman": 121,
+"yangin_yil": 2025,
+"isik_artis": 296,
+"sokak": 433,
+"numara_oran": 0.7,
+"kadin": 5,
+"erkek": 113,
+"kadin_oran": null,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+4
+],
+[
+"Rauf Denktaş",
+4
+],
+[
+"Şehit Teğmen Yavuz Eracar",
+2
+]
+],
+"kadinlar": [
+[
+"Halime Çavuş",
+1
+],
+[
+"Yayla Dudu",
+1
+],
+[
+"Münever Hanım",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Kartal",
+"gun21a": "08:07",
+"bat21a": "17:18",
+"gun21h": "05:11",
+"bat21h": "20:21",
+"gun21a_dk": 487
+},
+{
+"p": 38,
+"ad": "Kayseri",
+"slug": "kayseri",
+"bolge": "İç Anadolu",
+"nufus": 1458991,
+"giden": 638383,
+"gelen": 666925,
+"net": 28542,
+"net_binde": 1.17,
+"pm": 11.9,
+"pm_gun": 89,
+"deprem": 478,
+"deprem_max": 4.0,
+"yangin": 239,
+"yangin_orman": 0,
+"yangin_yil": 2025,
+"isik_artis": 182,
+"sokak": 3007,
+"numara_oran": 13.1,
+"kadin": 9,
+"erkek": 442,
+"kadin_oran": 2.0,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+10
+],
+[
+"Fatih Sultan Mehmet",
+10
+],
+[
+"Yunus Emre",
+8
+]
+],
+"kadinlar": [
+[
+"Nadire Yücel",
+1
+],
+[
+"Melek Hatun",
+1
+],
+[
+"Hunat Hatun",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Kahraman",
+"gun21a": "07:52",
+"bat21a": "17:20",
+"gun21h": "05:13",
+"bat21h": "20:06",
+"gun21a_dk": 472
+},
+{
+"p": 39,
+"ad": "Kırklareli",
+"slug": "kirklareli",
+"bolge": "Marmara",
+"nufus": 379595,
+"giden": 235879,
+"gelen": 270190,
+"net": 34311,
+"net_binde": 5.38,
+"pm": 10.3,
+"pm_gun": 53,
+"deprem": 46,
+"deprem_max": 1.9,
+"yangin": 127,
+"yangin_orman": 3,
+"yangin_yil": 2025,
+"isik_artis": 130,
+"sokak": 2166,
+"numara_oran": 14.8,
+"kadin": 18,
+"erkek": 282,
+"kadin_oran": 6.0,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+25
+],
+[
+"Fatih Sultan Mehmet",
+10
+],
+[
+"Zübeyde Hanım",
+9
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+9
+],
+[
+"Hostes Melek Demir",
+1
+],
+[
+"Zeliha Özbek",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Durmaz",
+"gun21a": "08:35",
+"bat21a": "17:43",
+"gun21h": "05:36",
+"bat21h": "20:49",
+"gun21a_dk": 515
+},
+{
+"p": 40,
+"ad": "Kırşehir",
+"slug": "kirsehir",
+"bolge": "İç Anadolu",
+"nufus": 242777,
+"giden": 213954,
+"gelen": 205987,
+"net": -7967,
+"net_binde": -1.9,
+"pm": 8.7,
+"pm_gun": 61,
+"deprem": 90,
+"deprem_max": 2.7,
+"yangin": 75,
+"yangin_orman": 0,
+"yangin_yil": 2025,
+"isik_artis": 232,
+"sokak": 1032,
+"numara_oran": 72.6,
+"kadin": 4,
+"erkek": 119,
+"kadin_oran": null,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+7
+],
+[
+"İsmet İnönü",
+4
+],
+[
+"Şehit Coşkun Taş",
+3
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+1
+],
+[
+"Nene Hatun",
+1
+],
+[
+"Muhterem Hatun",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Yağmur",
+"gun21a": "07:59",
+"bat21a": "17:24",
+"gun21h": "05:17",
+"bat21h": "20:12",
+"gun21a_dk": 479
+},
+{
+"p": 41,
+"ad": "Kocaeli",
+"slug": "kocaeli",
+"bolge": "Marmara",
+"nufus": 2161171,
+"giden": 1060933,
+"gelen": 1388454,
+"net": 327521,
+"net_binde": 9.91,
+"pm": 17.9,
+"pm_gun": 193,
+"deprem": 62,
+"deprem_max": 2.9,
+"yangin": 117,
+"yangin_orman": 19,
+"yangin_yil": 2025,
+"isik_artis": 93,
+"sokak": 6036,
+"numara_oran": 16.9,
+"kadin": 30,
+"erkek": 731,
+"kadin_oran": 3.9,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+18
+],
+[
+"Fatih Sultan Mehmet",
+16
+],
+[
+"İsmet İnönü",
+12
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+6
+],
+[
+"Leyla Atakan",
+4
+],
+[
+"Fatma Seher Erden",
+2
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Keskin",
+"gun21a": "08:21",
+"bat21a": "17:35",
+"gun21h": "05:28",
+"bat21h": "20:35",
+"gun21a_dk": 501
+},
+{
+"p": 42,
+"ad": "Konya",
+"slug": "konya",
+"bolge": "İç Anadolu",
+"nufus": 2343409,
+"giden": 999651,
+"gelen": 974555,
+"net": -25096,
+"net_binde": -0.64,
+"pm": 19.6,
+"pm_gun": 173,
+"deprem": 400,
+"deprem_max": 3.9,
+"yangin": 775,
+"yangin_orman": 24,
+"yangin_yil": 2025,
+"isik_artis": 209,
+"sokak": 5190,
+"numara_oran": 32.1,
+"kadin": 19,
+"erkek": 650,
+"kadin_oran": 2.8,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+23
+],
+[
+"Mevlana Celaleddin Rumi",
+14
+],
+[
+"Fatih Sultan Mehmet",
+10
+]
+],
+"kadinlar": [
+[
+"Devlet Hatun",
+1
+],
+[
+"Destine Hatun",
+1
+],
+[
+"Melike Adile",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Koyuncu",
+"gun21a": "08:02",
+"bat21a": "17:34",
+"gun21h": "05:28",
+"bat21h": "20:15",
+"gun21a_dk": 482
+},
+{
+"p": 43,
+"ad": "Kütahya",
+"slug": "kutahya",
+"bolge": "Ege",
+"nufus": 570478,
+"giden": 372258,
+"gelen": 334835,
+"net": -37423,
+"net_binde": -3.62,
+"pm": 13.0,
+"pm_gun": 104,
+"deprem": 2659,
+"deprem_max": 4.7,
+"yangin": 34,
+"yangin_orman": 5,
+"yangin_yil": 2025,
+"isik_artis": 170,
+"sokak": 1249,
+"numara_oran": 13.3,
+"kadin": 6,
+"erkek": 261,
+"kadin_oran": 2.2,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+11
+],
+[
+"Fatih Sultan Mehmet",
+7
+],
+[
+"Mimar Sinan",
+6
+]
+],
+"kadinlar": [
+[
+"Hayme Ana",
+2
+],
+[
+"Naime Öniz",
+1
+],
+[
+"Ece Sultan",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Uslu",
+"gun21a": "08:16",
+"bat21a": "17:39",
+"gun21h": "05:33",
+"bat21h": "20:30",
+"gun21a_dk": 496
+},
+{
+"p": 44,
+"ad": "Malatya",
+"slug": "malatya",
+"bolge": "Doğu Anadolu",
+"nufus": 755854,
+"giden": 613399,
+"gelen": 522232,
+"net": -91167,
+"net_binde": -6.57,
+"pm": null,
+"pm_gun": null,
+"deprem": 3214,
+"deprem_max": 5.4,
+"yangin": 228,
+"yangin_orman": 6,
+"yangin_yil": 2025,
+"isik_artis": 170,
+"sokak": 524,
+"numara_oran": 10.3,
+"kadin": 2,
+"erkek": 87,
+"kadin_oran": null,
+"kisiler": [
+[
+"Turgut Özal",
+7
+],
+[
+"İsmet İnönü",
+5
+],
+[
+"Recai Kutan",
+2
+]
+],
+"kadinlar": [
+[
+"Elif Altunok",
+1
+],
+[
+"Güldal Akşit",
+1
+]
+],
+"soy_ilk": "Şahin",
+"soy_ozel": "Gürbüz",
+"gun21a": "07:40",
+"bat21a": "17:09",
+"gun21h": "05:03",
+"bat21h": "19:53",
+"gun21a_dk": 460
+},
+{
+"p": 45,
+"ad": "Manisa",
+"slug": "manisa",
+"bolge": "Ege",
+"nufus": 1477756,
+"giden": 658600,
+"gelen": 679704,
+"net": 21104,
+"net_binde": 0.83,
+"pm": 13.9,
+"pm_gun": 90,
+"deprem": 1100,
+"deprem_max": 3.9,
+"yangin": 489,
+"yangin_orman": 198,
+"yangin_yil": 2025,
+"isik_artis": 154,
+"sokak": 1194,
+"numara_oran": 52.9,
+"kadin": 4,
+"erkek": 142,
+"kadin_oran": null,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+24
+],
+[
+"Mehmet Akif Ersoy",
+7
+],
+[
+"Fatih Sultan Mehmet",
+6
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+2
+],
+[
+"Şehit Makbule",
+1
+],
+[
+"Kader Atabey Yaya Üst",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Kahraman",
+"gun21a": "08:24",
+"bat21a": "17:52",
+"gun21h": "05:46",
+"bat21h": "20:38",
+"gun21a_dk": 504
+},
+{
+"p": 46,
+"ad": "Kahramanmaraş",
+"slug": "kahramanmaras",
+"bolge": "Akdeniz",
+"nufus": 1146278,
+"giden": 598760,
+"gelen": 484857,
+"net": -113903,
+"net_binde": -5.71,
+"pm": null,
+"pm_gun": 58,
+"deprem": 2418,
+"deprem_max": 4.6,
+"yangin": 708,
+"yangin_orman": 98,
+"yangin_yil": 2025,
+"isik_artis": 236,
+"sokak": 1568,
+"numara_oran": 52.2,
+"kadin": 3,
+"erkek": 261,
+"kadin_oran": 1.1,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+7
+],
+[
+"Fatih Sultan Mehmet",
+7
+],
+[
+"Ahmet Yesevi",
+5
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+1
+],
+[
+"İklime Hatun",
+1
+],
+[
+"Senem Ayşe",
+1
+]
+],
+"soy_ilk": "Demir",
+"soy_ozel": "Çam",
+"gun21a": "07:43",
+"bat21a": "17:17",
+"gun21h": "05:11",
+"bat21h": "19:56",
+"gun21a_dk": 463
+},
+{
+"p": 47,
+"ad": "Mardin",
+"slug": "mardin",
+"bolge": "Güneydoğu Anadolu",
+"nufus": 903576,
+"giden": 597253,
+"gelen": 470333,
+"net": -126920,
+"net_binde": -8.64,
+"pm": null,
+"pm_gun": null,
+"deprem": 35,
+"deprem_max": 2.9,
+"yangin": 1895,
+"yangin_orman": 0,
+"yangin_yil": 2025,
+"isik_artis": 152,
+"sokak": 1497,
+"numara_oran": 62.5,
+"kadin": 3,
+"erkek": 91,
+"kadin_oran": null,
+"kisiler": [
+[
+"Turgut Özal",
+3
+],
+[
+"Mustafa Kemal Atatürk",
+2
+],
+[
+"Zeynel Abidin Erdem",
+2
+]
+],
+"kadinlar": [
+[
+"Hanse Hatun",
+1
+],
+[
+"Şeyh Mümine",
+1
+],
+[
+"Zübeyde Hanım",
+1
+]
+],
+"soy_ilk": "Demir",
+"soy_ozel": "Akan",
+"gun21a": "07:27",
+"bat21a": "17:03",
+"gun21h": "04:56",
+"bat21h": "19:40",
+"gun21a_dk": 447
+},
+{
+"p": 48,
+"ad": "Muğla",
+"slug": "mugla",
+"bolge": "Ege",
+"nufus": 1099547,
+"giden": 583950,
+"gelen": 770829,
+"net": 186879,
+"net_binde": 11.06,
+"pm": null,
+"pm_gun": null,
+"deprem": 1707,
+"deprem_max": 3.9,
+"yangin": 224,
+"yangin_orman": 185,
+"yangin_yil": 2025,
+"isik_artis": 120,
+"sokak": 6047,
+"numara_oran": 54.6,
+"kadin": 39,
+"erkek": 753,
+"kadin_oran": 4.9,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+65
+],
+[
+"İsmet İnönü",
+27
+],
+[
+"Turgut Özal",
+13
+]
+],
+"kadinlar": [
+[
+"Halide Edip Adıvar",
+6
+],
+[
+"Zübeyde Hanım",
+5
+],
+[
+"Fevziye Cumhuriyet",
+3
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Çoban",
+"gun21a": "08:16",
+"bat21a": "17:52",
+"gun21h": "05:46",
+"bat21h": "20:30",
+"gun21a_dk": 496
+},
+{
+"p": 49,
+"ad": "Muş",
+"slug": "mus",
+"bolge": "Doğu Anadolu",
+"nufus": 389127,
+"giden": 384943,
+"gelen": 224978,
+"net": -159965,
+"net_binde": -21.91,
+"pm": null,
+"pm_gun": null,
+"deprem": 132,
+"deprem_max": 4.1,
+"yangin": 90,
+"yangin_orman": 0,
+"yangin_yil": 2025,
+"isik_artis": 417,
+"sokak": 115,
+"numara_oran": 48.7,
+"kadin": 0,
+"erkek": 5,
+"kadin_oran": null,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+2
+],
+[
+"Şehit Akif Ağaoğlu",
+1
+],
+[
+"Sırrı Aşar",
+1
+]
+],
+"kadinlar": [],
+"soy_ilk": "Çelik",
+"soy_ozel": "Özmen",
+"gun21a": "07:28",
+"bat21a": "16:55",
+"gun21h": "04:49",
+"bat21h": "19:42",
+"gun21a_dk": 448
+},
+{
+"p": 50,
+"ad": "Nevşehir",
+"slug": "nevsehir",
+"bolge": "İç Anadolu",
+"nufus": 320150,
+"giden": 212656,
+"gelen": 209303,
+"net": -3353,
+"net_binde": -0.63,
+"pm": null,
+"pm_gun": null,
+"deprem": 7,
+"deprem_max": 1.9,
+"yangin": 71,
+"yangin_orman": 0,
+"yangin_yil": 2025,
+"isik_artis": 180,
+"sokak": 1039,
+"numara_oran": 36.4,
+"kadin": 4,
+"erkek": 218,
+"kadin_oran": 1.8,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+12
+],
+[
+"Fevzi Çakmak",
+6
+],
+[
+"İsmet İnönü",
+4
+]
+],
+"kadinlar": [
+[
+"Prof. Zeliha Berksoy",
+1
+],
+[
+"Zümrü Hoca",
+1
+],
+[
+"Türkan Diker",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Ertaş",
+"gun21a": "07:55",
+"bat21a": "17:23",
+"gun21h": "05:16",
+"bat21h": "20:09",
+"gun21a_dk": 475
+},
+{
+"p": 51,
+"ad": "Niğde",
+"slug": "nigde",
+"bolge": "İç Anadolu",
+"nufus": 374492,
+"giden": 287061,
+"gelen": 268544,
+"net": -18517,
+"net_binde": -2.9,
+"pm": 15.8,
+"pm_gun": 171,
+"deprem": 52,
+"deprem_max": 3.8,
+"yangin": 77,
+"yangin_orman": 1,
+"yangin_yil": 2025,
+"isik_artis": 174,
+"sokak": 297,
+"numara_oran": 16.2,
+"kadin": 1,
+"erkek": 62,
+"kadin_oran": null,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+5
+],
+[
+"Mehmet Akif Ersoy",
+3
+],
+[
+"Doğan Baran",
+2
+]
+],
+"kadinlar": [
+[
+"Karina Argi",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Arıkan",
+"gun21a": "07:53",
+"bat21a": "17:25",
+"gun21h": "05:19",
+"bat21h": "20:07",
+"gun21a_dk": 473
+},
+{
+"p": 52,
+"ad": "Ordu",
+"slug": "ordu",
+"bolge": "Karadeniz",
+"nufus": 768087,
+"giden": 584699,
+"gelen": 572624,
+"net": -12075,
+"net_binde": -0.9,
+"pm": 17.3,
+"pm_gun": 147,
+"deprem": 3,
+"deprem_max": 1.9,
+"yangin": 5,
+"yangin_orman": 3,
+"yangin_yil": 2025,
+"isik_artis": 282,
+"sokak": 2301,
+"numara_oran": 59.4,
+"kadin": 16,
+"erkek": 187,
+"kadin_oran": 7.9,
+"kisiler": [
+[
+"Yunus Emre",
+11
+],
+[
+"Mustafa Kemal Atatürk",
+8
+],
+[
+"Zübeyde Hanım",
+5
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+5
+],
+[
+"Hacer Yücel",
+1
+],
+[
+"Sabahnur Malatyalıoğlu",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Karayiğit",
+"gun21a": "07:50",
+"bat21a": "17:03",
+"gun21h": "04:56",
+"bat21h": "20:04",
+"gun21a_dk": 470
+},
+{
+"p": 53,
+"ad": "Rize",
+"slug": "rize",
+"bolge": "Karadeniz",
+"nufus": 346947,
+"giden": 291382,
+"gelen": 286116,
+"net": -5266,
+"net_binde": -0.87,
+"pm": 10.1,
+"pm_gun": 32,
+"deprem": 10,
+"deprem_max": 1.9,
+"yangin": 8,
+"yangin_orman": 7,
+"yangin_yil": 2025,
+"isik_artis": 199,
+"sokak": 185,
+"numara_oran": 13.5,
+"kadin": 1,
+"erkek": 68,
+"kadin_oran": null,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+11
+],
+[
+"Adnan Menderes",
+4
+],
+[
+"Kazım Karabekir",
+2
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Kopuz",
+"gun21a": "07:39",
+"bat21a": "16:52",
+"gun21h": "04:45",
+"bat21h": "19:53",
+"gun21a_dk": 459
+},
+{
+"p": 54,
+"ad": "Sakarya",
+"slug": "sakarya",
+"bolge": "Marmara",
+"nufus": 1123693,
+"giden": 499584,
+"gelen": 610049,
+"net": 110465,
+"net_binde": 6.24,
+"pm": 20.7,
+"pm_gun": 276,
+"deprem": 77,
+"deprem_max": 3.6,
+"yangin": 258,
+"yangin_orman": 225,
+"yangin_yil": 2025,
+"isik_artis": 122,
+"sokak": 3541,
+"numara_oran": 47.1,
+"kadin": 10,
+"erkek": 261,
+"kadin_oran": 3.7,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+10
+],
+[
+"Fatih Sultan Mehmet",
+10
+],
+[
+"Yavuz Sultan Selim",
+9
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+2
+],
+[
+"Gökçe Hatun",
+2
+],
+[
+"Figen Sakkallıoğlu",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Duman",
+"gun21a": "08:19",
+"bat21a": "17:34",
+"gun21h": "05:27",
+"bat21h": "20:33",
+"gun21a_dk": 499
+},
+{
+"p": 55,
+"ad": "Samsun",
+"slug": "samsun",
+"bolge": "Karadeniz",
+"nufus": 1392403,
+"giden": 775429,
+"gelen": 778041,
+"net": 2612,
+"net_binde": 0.11,
+"pm": 14.6,
+"pm_gun": 121,
+"deprem": 23,
+"deprem_max": 3.8,
+"yangin": 196,
+"yangin_orman": 11,
+"yangin_yil": 2025,
+"isik_artis": 173,
+"sokak": 2537,
+"numara_oran": 41.3,
+"kadin": 8,
+"erkek": 378,
+"kadin_oran": 2.1,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+25
+],
+[
+"İsmet İnönü",
+11
+],
+[
+"Adnan Menderes",
+9
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+2
+],
+[
+"Halide Edip Adıvar",
+2
+],
+[
+"Mihrican Hatun",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Sağlam",
+"gun21a": "07:57",
+"bat21a": "17:08",
+"gun21h": "05:01",
+"bat21h": "20:11",
+"gun21a_dk": 477
+},
+{
+"p": 56,
+"ad": "Siirt",
+"slug": "siirt",
+"bolge": "Güneydoğu Anadolu",
+"nufus": 332369,
+"giden": 276466,
+"gelen": 204832,
+"net": -71634,
+"net_binde": -12.36,
+"pm": null,
+"pm_gun": null,
+"deprem": 55,
+"deprem_max": 2.8,
+"yangin": 119,
+"yangin_orman": 2,
+"yangin_yil": 2025,
+"isik_artis": 244,
+"sokak": 37,
+"numara_oran": 40.5,
+"kadin": 0,
+"erkek": 9,
+"kadin_oran": null,
+"kisiler": [
+[
+"Şeyh Aziz",
+1
+],
+[
+"Sultan Memduh",
+1
+],
+[
+"Cumhur Poturnak",
+1
+]
+],
+"kadinlar": [],
+"soy_ilk": "Yıldız",
+"soy_ozel": "Dündar",
+"gun21a": "07:24",
+"bat21a": "16:56",
+"gun21h": "04:50",
+"bat21h": "19:37",
+"gun21a_dk": 444
+},
+{
+"p": 57,
+"ad": "Sinop",
+"slug": "sinop",
+"bolge": "Karadeniz",
+"nufus": 225848,
+"giden": 196917,
+"gelen": 217350,
+"net": 20433,
+"net_binde": 5.36,
+"pm": null,
+"pm_gun": null,
+"deprem": 4,
+"deprem_max": 2.4,
+"yangin": 37,
+"yangin_orman": 1,
+"yangin_yil": 2025,
+"isik_artis": 253,
+"sokak": 437,
+"numara_oran": 11.2,
+"kadin": 1,
+"erkek": 65,
+"kadin_oran": null,
+"kisiler": [
+[
+"İsmet İnönü",
+3
+],
+[
+"Mustafa Kemal Atatürk",
+2
+],
+[
+"Barbaros Hayreddin Paşa",
+2
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Demircan",
+"gun21a": "08:04",
+"bat21a": "17:11",
+"gun21h": "05:03",
+"bat21h": "20:18",
+"gun21a_dk": 484
+},
+{
+"p": 58,
+"ad": "Sivas",
+"slug": "sivas",
+"bolge": "İç Anadolu",
+"nufus": 631401,
+"giden": 538188,
+"gelen": 464669,
+"net": -73519,
+"net_binde": -6.46,
+"pm": 17.6,
+"pm_gun": 149,
+"deprem": 313,
+"deprem_max": 3.7,
+"yangin": 246,
+"yangin_orman": 1,
+"yangin_yil": 2025,
+"isik_artis": 250,
+"sokak": 3114,
+"numara_oran": 63.5,
+"kadin": 3,
+"erkek": 284,
+"kadin_oran": 1.0,
+"kisiler": [
+[
+"Muhsin Yazıcıoğlu",
+6
+],
+[
+"İsmet İnönü",
+4
+],
+[
+"Nuri Demirağ",
+4
+]
+],
+"kadinlar": [
+[
+"Melek Reşithanım",
+1
+],
+[
+"Zübeyde Hanım",
+1
+],
+[
+"Hüma Hatun",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Çınar",
+"gun21a": "07:49",
+"bat21a": "17:10",
+"gun21h": "05:04",
+"bat21h": "20:03",
+"gun21a_dk": 469
+},
+{
+"p": 59,
+"ad": "Tekirdağ",
+"slug": "tekirdag",
+"bolge": "Marmara",
+"nufus": 1208441,
+"giden": 605910,
+"gelen": 920949,
+"net": 315039,
+"net_binde": 17.78,
+"pm": 16.3,
+"pm_gun": 182,
+"deprem": 199,
+"deprem_max": 3.3,
+"yangin": 382,
+"yangin_orman": 199,
+"yangin_yil": 2025,
+"isik_artis": 150,
+"sokak": 6281,
+"numara_oran": 16.5,
+"kadin": 56,
+"erkek": 972,
+"kadin_oran": 5.4,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+65
+],
+[
+"İsmet İnönü",
+23
+],
+[
+"Fatih Sultan Mehmet",
+19
+]
+],
+"kadinlar": [
+[
+"Halide Edip Adıvar",
+5
+],
+[
+"Bahriye Üçok",
+3
+],
+[
+"Türkan Saylan",
+3
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Mutlu",
+"gun21a": "08:31",
+"bat21a": "17:45",
+"gun21h": "05:37",
+"bat21h": "20:45",
+"gun21a_dk": 511
+},
+{
+"p": 60,
+"ad": "Tokat",
+"slug": "tokat",
+"bolge": "Karadeniz",
+"nufus": 614141,
+"giden": 666506,
+"gelen": 611899,
+"net": -54607,
+"net_binde": -4.99,
+"pm": 20.5,
+"pm_gun": 168,
+"deprem": 241,
+"deprem_max": 5.3,
+"yangin": 94,
+"yangin_orman": 4,
+"yangin_yil": 2025,
+"isik_artis": 245,
+"sokak": 1484,
+"numara_oran": 0.2,
+"kadin": 3,
+"erkek": 239,
+"kadin_oran": 1.2,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+21
+],
+[
+"Gazi Osman Paşa",
+10
+],
+[
+"Mevlana Celaleddin Rumi",
+6
+]
+],
+"kadinlar": [
+[
+"Rabia Hatun",
+1
+],
+[
+"Halide Edip Adıvar",
+1
+],
+[
+"Nene Hatun",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Temiz",
+"gun21a": "07:53",
+"bat21a": "17:10",
+"gun21h": "05:04",
+"bat21h": "20:07",
+"gun21a_dk": 473
+},
+{
+"p": 61,
+"ad": "Trabzon",
+"slug": "trabzon",
+"bolge": "Karadeniz",
+"nufus": 823323,
+"giden": 547038,
+"gelen": 531226,
+"net": -15812,
+"net_binde": -1.11,
+"pm": 16.7,
+"pm_gun": 154,
+"deprem": 30,
+"deprem_max": 3.7,
+"yangin": 10,
+"yangin_orman": 9,
+"yangin_yil": 2025,
+"isik_artis": 232,
+"sokak": 2551,
+"numara_oran": 14.7,
+"kadin": 6,
+"erkek": 287,
+"kadin_oran": 2.0,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+15
+],
+[
+"Kanuni Sultan Süleyman",
+10
+],
+[
+"İsmet İnönü",
+7
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+1
+],
+[
+"Gülbahar Hatun",
+1
+],
+[
+"Şehit Feriştah Akdoğan",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Birinci",
+"gun21a": "07:42",
+"bat21a": "16:56",
+"gun21h": "04:49",
+"bat21h": "19:56",
+"gun21a_dk": 462
+},
+{
+"p": 62,
+"ad": "Tunceli",
+"slug": "tunceli",
+"bolge": "Doğu Anadolu",
+"nufus": 85083,
+"giden": 122794,
+"gelen": 125632,
+"net": 2838,
+"net_binde": 1.86,
+"pm": null,
+"pm_gun": null,
+"deprem": 120,
+"deprem_max": 3.2,
+"yangin": 15,
+"yangin_orman": 0,
+"yangin_yil": 2025,
+"isik_artis": 102,
+"sokak": 148,
+"numara_oran": 21.6,
+"kadin": 5,
+"erkek": 51,
+"kadin_oran": null,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+3
+],
+[
+"Yunus Emre",
+2
+],
+[
+"Fevzi Çakmak",
+2
+]
+],
+"kadinlar": [
+[
+"Behice Boran",
+2
+],
+[
+"Mimar Sevda Tayan",
+1
+],
+[
+"Bahriye Üçok",
+1
+]
+],
+"soy_ilk": "Demir",
+"soy_ozel": "Yeşil",
+"gun21a": "07:37",
+"bat21a": "17:02",
+"gun21h": "04:56",
+"bat21h": "19:51",
+"gun21a_dk": 457
+},
+{
+"p": 63,
+"ad": "Şanlıurfa",
+"slug": "sanliurfa",
+"bolge": "Güneydoğu Anadolu",
+"nufus": 2265800,
+"giden": 929757,
+"gelen": 699600,
+"net": -230157,
+"net_binde": -6.57,
+"pm": 24.4,
+"pm_gun": 174,
+"deprem": 70,
+"deprem_max": 5.3,
+"yangin": 4438,
+"yangin_orman": 1,
+"yangin_yil": 2025,
+"isik_artis": 167,
+"sokak": 888,
+"numara_oran": 63.9,
+"kadin": 2,
+"erkek": 83,
+"kadin_oran": null,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+5
+],
+[
+"Mevlana Celaleddin Rumi",
+5
+],
+[
+"Recep Tayyip Erdoğan",
+4
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+1
+],
+[
+"Aysel Özgür",
+1
+]
+],
+"soy_ilk": "Demir",
+"soy_ozel": "Toprak",
+"gun21a": "07:35",
+"bat21a": "17:11",
+"gun21h": "05:05",
+"bat21h": "19:48",
+"gun21a_dk": 455
+},
+{
+"p": 64,
+"ad": "Uşak",
+"slug": "usak",
+"bolge": "Ege",
+"nufus": 374405,
+"giden": 198330,
+"gelen": 200605,
+"net": 2275,
+"net_binde": 0.35,
+"pm": null,
+"pm_gun": 42,
+"deprem": 160,
+"deprem_max": 1.6,
+"yangin": 170,
+"yangin_orman": 82,
+"yangin_yil": 2025,
+"isik_artis": 163,
+"sokak": 1474,
+"numara_oran": 5.5,
+"kadin": 6,
+"erkek": 193,
+"kadin_oran": null,
+"kisiler": [
+[
+"Fatih Sultan Mehmet",
+6
+],
+[
+"İsmet İnönü",
+4
+],
+[
+"Mustafa Kemal Atatürk",
+3
+]
+],
+"kadinlar": [
+[
+"Ganime Özadam",
+1
+],
+[
+"Zübeyde Hanım",
+1
+],
+[
+"Hesna Özgöbek",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Türkmen",
+"gun21a": "08:16",
+"bat21a": "17:44",
+"gun21h": "05:37",
+"bat21h": "20:30",
+"gun21a_dk": 496
+},
+{
+"p": 65,
+"ad": "Van",
+"slug": "van",
+"bolge": "Doğu Anadolu",
+"nufus": 1112013,
+"giden": 841619,
+"gelen": 554260,
+"net": -287359,
+"net_binde": -14.64,
+"pm": null,
+"pm_gun": 137,
+"deprem": 338,
+"deprem_max": 5.1,
+"yangin": 63,
+"yangin_orman": 0,
+"yangin_yil": 2025,
+"isik_artis": 197,
+"sokak": 139,
+"numara_oran": 25.2,
+"kadin": 0,
+"erkek": 15,
+"kadin_oran": null,
+"kisiler": [
+[
+"Fevzi Çakmak",
+2
+],
+[
+"Kazım Karabekir",
+1
+],
+[
+"Ferit Melen",
+1
+]
+],
+"kadinlar": [],
+"soy_ilk": "Demir",
+"soy_ozel": "Bilici",
+"gun21a": "07:20",
+"bat21a": "16:48",
+"gun21h": "04:42",
+"bat21h": "19:33",
+"gun21a_dk": 440
+},
+{
+"p": 66,
+"ad": "Yozgat",
+"slug": "yozgat",
+"bolge": "İç Anadolu",
+"nufus": 413208,
+"giden": 439030,
+"gelen": 321955,
+"net": -117075,
+"net_binde": -14.91,
+"pm": 11.9,
+"pm_gun": 84,
+"deprem": 101,
+"deprem_max": 2.8,
+"yangin": 149,
+"yangin_orman": 0,
+"yangin_yil": 2025,
+"isik_artis": 284,
+"sokak": 797,
+"numara_oran": 11.2,
+"kadin": 2,
+"erkek": 187,
+"kadin_oran": null,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+15
+],
+[
+"Barbaros Hayreddin Paşa",
+9
+],
+[
+"Yavuz Sultan Selim",
+7
+]
+],
+"kadinlar": [
+[
+"Halide Edip Adıvar",
+1
+],
+[
+"Fatma Temel Turhan",
+1
+]
+],
+"soy_ilk": "Şahin",
+"soy_ozel": "Erol",
+"gun21a": "07:58",
+"bat21a": "17:19",
+"gun21h": "05:12",
+"bat21h": "20:12",
+"gun21a_dk": 478
+},
+{
+"p": 67,
+"ad": "Zonguldak",
+"slug": "zonguldak",
+"bolge": "Karadeniz",
+"nufus": 585203,
+"giden": 405959,
+"gelen": 335005,
+"net": -70954,
+"net_binde": -6.57,
+"pm": 15.6,
+"pm_gun": 154,
+"deprem": 4,
+"deprem_max": 1.2,
+"yangin": 38,
+"yangin_orman": 8,
+"yangin_yil": 2025,
+"isik_artis": 112,
+"sokak": 561,
+"numara_oran": 0.7,
+"kadin": 4,
+"erkek": 187,
+"kadin_oran": null,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+7
+],
+[
+"Uğur Mumcu",
+4
+],
+[
+"Çetin Emeç",
+4
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+2
+],
+[
+"Nimet Hoca",
+1
+],
+[
+"Süheyla Erel",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Yaman",
+"gun21a": "08:15",
+"bat21a": "17:26",
+"gun21h": "05:19",
+"bat21h": "20:30",
+"gun21a_dk": 495
+},
+{
+"p": 68,
+"ad": "Aksaray",
+"slug": "aksaray",
+"bolge": "İç Anadolu",
+"nufus": 441136,
+"giden": 247530,
+"gelen": 235662,
+"net": -11868,
+"net_binde": -1.63,
+"pm": 19.6,
+"pm_gun": 196,
+"deprem": 34,
+"deprem_max": 1.9,
+"yangin": 96,
+"yangin_orman": 0,
+"yangin_yil": 2025,
+"isik_artis": 316,
+"sokak": 264,
+"numara_oran": 52.7,
+"kadin": 0,
+"erkek": 51,
+"kadin_oran": null,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+6
+],
+[
+"Şehit Polis Sefa Altınsoy",
+2
+],
+[
+"Şehit Recep Bozdağ",
+2
+]
+],
+"kadinlar": [],
+"soy_ilk": "Kılıç",
+"soy_ozel": "Altınsoy",
+"gun21a": "07:57",
+"bat21a": "17:26",
+"gun21h": "05:20",
+"bat21h": "20:11",
+"gun21a_dk": 477
+},
+{
+"p": 69,
+"ad": "Bayburt",
+"slug": "bayburt",
+"bolge": "Karadeniz",
+"nufus": 82836,
+"giden": 125855,
+"gelen": 121188,
+"net": -4667,
+"net_binde": -3.21,
+"pm": null,
+"pm_gun": null,
+"deprem": 28,
+"deprem_max": 2.5,
+"yangin": 18,
+"yangin_orman": 0,
+"yangin_yil": 2025,
+"isik_artis": 311,
+"sokak": 74,
+"numara_oran": 2.7,
+"kadin": 0,
+"erkek": 17,
+"kadin_oran": null,
+"kisiler": [
+[
+"Recep Tayyip Erdoğan",
+2
+],
+[
+"Akşemseddin",
+1
+],
+[
+"Ekmeledin Bayburdi",
+1
+]
+],
+"kadinlar": [],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Saka",
+"gun21a": "07:38",
+"bat21a": "16:56",
+"gun21h": "04:49",
+"bat21h": "19:52",
+"gun21a_dk": 458
+},
+{
+"p": 70,
+"ad": "Karaman",
+"slug": "karaman",
+"bolge": "İç Anadolu",
+"nufus": 262355,
+"giden": 178467,
+"gelen": 174625,
+"net": -3842,
+"net_binde": -0.86,
+"pm": 12.2,
+"pm_gun": 69,
+"deprem": 23,
+"deprem_max": 2.3,
+"yangin": 56,
+"yangin_orman": 15,
+"yangin_yil": 2025,
+"isik_artis": 286,
+"sokak": 73,
+"numara_oran": 23.3,
+"kadin": 0,
+"erkek": 20,
+"kadin_oran": null,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+5
+],
+[
+"Alparslan Türkeş",
+2
+],
+[
+"Ahmet Yesevi",
+2
+]
+],
+"kadinlar": [],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Ünlü",
+"gun21a": "07:57",
+"bat21a": "17:33",
+"gun21h": "05:27",
+"bat21h": "20:10",
+"gun21a_dk": 477
+},
+{
+"p": 71,
+"ad": "Kırıkkale",
+"slug": "kirikkale",
+"bolge": "İç Anadolu",
+"nufus": 282830,
+"giden": 282941,
+"gelen": 254603,
+"net": -28338,
+"net_binde": -5.65,
+"pm": 11.1,
+"pm_gun": 84,
+"deprem": 143,
+"deprem_max": 2.8,
+"yangin": 61,
+"yangin_orman": 0,
+"yangin_yil": 2025,
+"isik_artis": 193,
+"sokak": 678,
+"numara_oran": 68.6,
+"kadin": 2,
+"erkek": 91,
+"kadin_oran": null,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+6
+],
+[
+"Fatih Sultan Mehmet",
+5
+],
+[
+"Fevzi Çakmak",
+2
+]
+],
+"kadinlar": [
+[
+"Nene Hatun",
+1
+],
+[
+"Halide Edip Adıvar",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Yeşilyurt",
+"gun21a": "08:03",
+"bat21a": "17:24",
+"gun21h": "05:17",
+"bat21h": "20:17",
+"gun21a_dk": 483
+},
+{
+"p": 72,
+"ad": "Batman",
+"slug": "batman",
+"bolge": "Güneydoğu Anadolu",
+"nufus": 662626,
+"giden": 385917,
+"gelen": 355646,
+"net": -30271,
+"net_binde": -2.9,
+"pm": 21.8,
+"pm_gun": 154,
+"deprem": 20,
+"deprem_max": 1.6,
+"yangin": 81,
+"yangin_orman": 0,
+"yangin_yil": 2025,
+"isik_artis": 185,
+"sokak": 2709,
+"numara_oran": 87.3,
+"kadin": 4,
+"erkek": 97,
+"kadin_oran": null,
+"kisiler": [
+[
+"Selahaddin Eyyubi",
+4
+],
+[
+"Zübeyde Hanım",
+3
+],
+[
+"İsmail Zemin",
+3
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+3
+],
+[
+"Şenay Aybüke Yalçın",
+1
+]
+],
+"soy_ilk": "Demir",
+"soy_ozel": "Sevim",
+"gun21a": "07:27",
+"bat21a": "16:59",
+"gun21h": "04:53",
+"bat21h": "19:41",
+"gun21a_dk": 447
+},
+{
+"p": 73,
+"ad": "Şırnak",
+"slug": "sirnak",
+"bolge": "Güneydoğu Anadolu",
+"nufus": 573666,
+"giden": 323824,
+"gelen": 265890,
+"net": -57934,
+"net_binde": -6.39,
+"pm": 28.3,
+"pm_gun": 313,
+"deprem": 32,
+"deprem_max": 3.2,
+"yangin": 147,
+"yangin_orman": 14,
+"yangin_yil": 2025,
+"isik_artis": 147,
+"sokak": 676,
+"numara_oran": 39.6,
+"kadin": 5,
+"erkek": 44,
+"kadin_oran": null,
+"kisiler": [
+[
+"Mehmet Akif Ersoy",
+2
+],
+[
+"Cemal Gürsel",
+2
+],
+[
+"Köprülü Mehmet Paşa",
+2
+]
+],
+"kadinlar": [
+[
+"Adile Naşit",
+1
+],
+[
+"Sitti Nefis",
+1
+],
+[
+"Amine Yaşın",
+1
+]
+],
+"soy_ilk": "Demir",
+"soy_ozel": "Babat",
+"gun21a": "07:21",
+"bat21a": "16:55",
+"gun21h": "04:49",
+"bat21h": "19:34",
+"gun21a_dk": 441
+},
+{
+"p": 74,
+"ad": "Bartın",
+"slug": "bartin",
+"bolge": "Karadeniz",
+"nufus": 206663,
+"giden": 148637,
+"gelen": 161009,
+"net": 12372,
+"net_binde": 3.52,
+"pm": 16.9,
+"pm_gun": 114,
+"deprem": 9,
+"deprem_max": 2.7,
+"yangin": 26,
+"yangin_orman": 3,
+"yangin_yil": 2025,
+"isik_artis": 206,
+"sokak": 76,
+"numara_oran": 13.2,
+"kadin": 2,
+"erkek": 7,
+"kadin_oran": null,
+"kisiler": [
+[
+"Zübeyde Hanım",
+2
+],
+[
+"General Mithat Ceylan",
+1
+],
+[
+"Turgut Işık",
+1
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+2
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Bilgin",
+"gun21a": "08:14",
+"bat21a": "17:23",
+"gun21h": "05:16",
+"bat21h": "20:28",
+"gun21a_dk": 494
+},
+{
+"p": 75,
+"ad": "Ardahan",
+"slug": "ardahan",
+"bolge": "Doğu Anadolu",
+"nufus": 90392,
+"giden": 123887,
+"gelen": 92559,
+"net": -31328,
+"net_binde": -17.48,
+"pm": null,
+"pm_gun": null,
+"deprem": 20,
+"deprem_max": 2.7,
+"yangin": 4,
+"yangin_orman": 0,
+"yangin_yil": 2025,
+"isik_artis": 477,
+"sokak": 92,
+"numara_oran": 18.5,
+"kadin": 1,
+"erkek": 21,
+"kadin_oran": null,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+2
+],
+[
+"Nuri Demirci",
+1
+],
+[
+"Vehbi Bayraktar",
+1
+]
+],
+"kadinlar": [
+[
+"Zübeyde Hanım",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Avşar",
+"gun21a": "07:31",
+"bat21a": "16:43",
+"gun21h": "04:36",
+"bat21h": "19:45",
+"gun21a_dk": 451
+},
+{
+"p": 76,
+"ad": "Iğdır",
+"slug": "igdir",
+"bolge": "Doğu Anadolu",
+"nufus": 205071,
+"giden": 173699,
+"gelen": 138229,
+"net": -35470,
+"net_binde": -10.08,
+"pm": 45.7,
+"pm_gun": 223,
+"deprem": 14,
+"deprem_max": 3.0,
+"yangin": 227,
+"yangin_orman": 0,
+"yangin_yil": 2025,
+"isik_artis": 313,
+"sokak": 80,
+"numara_oran": 52.5,
+"kadin": 2,
+"erkek": 19,
+"kadin_oran": null,
+"kisiler": [
+[
+"Fatih Sultan Mehmet",
+2
+],
+[
+"Mustafa Kemal Atatürk",
+1
+],
+[
+"Ali Ekber Hoşhaber",
+1
+]
+],
+"kadinlar": [
+[
+"Sakine Savaş",
+1
+],
+[
+"Fatma Gülali",
+1
+]
+],
+"soy_ilk": "Aras",
+"soy_ozel": "Akkuş",
+"gun21a": "07:22",
+"bat21a": "16:42",
+"gun21h": "04:35",
+"bat21h": "19:35",
+"gun21a_dk": 442
+},
+{
+"p": 77,
+"ad": "Yalova",
+"slug": "yalova",
+"bolge": "Marmara",
+"nufus": 311635,
+"giden": 197247,
+"gelen": 272461,
+"net": 75214,
+"net_binde": 16.66,
+"pm": 13.7,
+"pm_gun": 100,
+"deprem": 170,
+"deprem_max": 3.2,
+"yangin": 4,
+"yangin_orman": 2,
+"yangin_yil": 2025,
+"isik_artis": 161,
+"sokak": 753,
+"numara_oran": 5.6,
+"kadin": 13,
+"erkek": 117,
+"kadin_oran": null,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+12
+],
+[
+"Fatih Sultan Mehmet",
+4
+],
+[
+"Yavuz Sultan Selim",
+3
+]
+],
+"kadinlar": [
+[
+"Türkan Saylan",
+3
+],
+[
+"Nene Hatun",
+2
+],
+[
+"Halide Edip Adıvar",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Karahasan",
+"gun21a": "08:23",
+"bat21a": "17:39",
+"gun21h": "05:32",
+"bat21h": "20:37",
+"gun21a_dk": 503
+},
+{
+"p": 78,
+"ad": "Karabük",
+"slug": "karabuk",
+"bolge": "Karadeniz",
+"nufus": 249614,
+"giden": 220609,
+"gelen": 233038,
+"net": 12429,
+"net_binde": 2.9,
+"pm": 16.3,
+"pm_gun": 143,
+"deprem": 19,
+"deprem_max": 1.8,
+"yangin": 536,
+"yangin_orman": 468,
+"yangin_yil": 2025,
+"isik_artis": 171,
+"sokak": 180,
+"numara_oran": 15.0,
+"kadin": 1,
+"erkek": 37,
+"kadin_oran": null,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+3
+],
+[
+"Alparslan Türkeş",
+2
+],
+[
+"Fatih Sultan Mehmet",
+2
+]
+],
+"kadinlar": [
+[
+"Pınar Bahar",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Bostancı",
+"gun21a": "08:11",
+"bat21a": "17:23",
+"gun21h": "05:16",
+"bat21h": "20:25",
+"gun21a_dk": 491
+},
+{
+"p": 79,
+"ad": "Kilis",
+"slug": "kilis",
+"bolge": "Güneydoğu Anadolu",
+"nufus": 157363,
+"giden": 124728,
+"gelen": 118643,
+"net": -6085,
+"net_binde": -2.47,
+"pm": null,
+"pm_gun": null,
+"deprem": 2,
+"deprem_max": 1.7,
+"yangin": 39,
+"yangin_orman": 0,
+"yangin_yil": 2025,
+"isik_artis": 239,
+"sokak": 14,
+"numara_oran": 0.0,
+"kadin": 0,
+"erkek": 6,
+"kadin_oran": null,
+"kisiler": [
+[
+"İlhami Toprak",
+1
+],
+[
+"Arif Akçabay",
+1
+],
+[
+"Nejat Uygur",
+1
+]
+],
+"kadinlar": [],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "Kuş",
+"gun21a": "07:40",
+"bat21a": "17:19",
+"gun21h": "05:13",
+"bat21h": "19:53",
+"gun21a_dk": 460
+},
+{
+"p": 80,
+"ad": "Osmaniye",
+"slug": "osmaniye",
+"bolge": "Akdeniz",
+"nufus": 564123,
+"giden": 349631,
+"gelen": 333844,
+"net": -15787,
+"net_binde": -1.68,
+"pm": null,
+"pm_gun": null,
+"deprem": 145,
+"deprem_max": 3.5,
+"yangin": 346,
+"yangin_orman": 14,
+"yangin_yil": 2025,
+"isik_artis": 180,
+"sokak": 1174,
+"numara_oran": 76.9,
+"kadin": 2,
+"erkek": 126,
+"kadin_oran": null,
+"kisiler": [
+[
+"Mustafa Kemal Atatürk",
+8
+],
+[
+"Devlet Bahçeli",
+4
+],
+[
+"Alparslan Türkeş",
+3
+]
+],
+"kadinlar": [
+[
+"Dr. Sıdıka Saygılı",
+1
+],
+[
+"Halk Ozanı Ayşe Çağlayan",
+1
+]
+],
+"soy_ilk": "Demir",
+"soy_ozel": "Türkmenoğlu",
+"gun21a": "07:44",
+"bat21a": "17:21",
+"gun21h": "05:15",
+"bat21h": "19:58",
+"gun21a_dk": 464
+},
+{
+"p": 81,
+"ad": "Düzce",
+"slug": "duzce",
+"bolge": "Karadeniz",
+"nufus": 415622,
+"giden": 217553,
+"gelen": 252329,
+"net": 34776,
+"net_binde": 5.17,
+"pm": 23.9,
+"pm_gun": 166,
+"deprem": 75,
+"deprem_max": 3.0,
+"yangin": 6,
+"yangin_orman": 3,
+"yangin_yil": 2025,
+"isik_artis": 105,
+"sokak": 2316,
+"numara_oran": 56.4,
+"kadin": 10,
+"erkek": 204,
+"kadin_oran": 4.7,
+"kisiler": [
+[
+"Konur Alp",
+13
+],
+[
+"Mustafa Kemal Atatürk",
+9
+],
+[
+"İsmet İnönü",
+5
+]
+],
+"kadinlar": [
+[
+"Profesör Doktor Funda Sivrikaya Şerifoğlu",
+2
+],
+[
+"Ela Bahriye Oral",
+1
+],
+[
+"Perihan Benli",
+1
+]
+],
+"soy_ilk": "Yılmaz",
+"soy_ozel": "İlhan",
+"gun21a": "08:16",
+"bat21a": "17:30",
+"gun21h": "05:23",
+"bat21h": "20:30",
+"gun21a_dk": 496
+}
+]

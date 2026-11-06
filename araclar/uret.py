@@ -115,7 +115,7 @@ def topla():
             "deprem": d["son365"], "deprem_max": a["ipucu"]["deprem"]["en_buyuk"],
             "yangin": a["ipucu"]["yangin"]["n"], "yangin_orman": a["ipucu"]["yangin"]["orman"], "yangin_yil": a["ipucu"]["yangin"]["yil"],
             "isik_artis": round((g["isik"][-1] / g["isik"][0] - 1) * 100) if g["isik"][0] else None,
-            "sokak": s["sokak"], "numara_oran": round(s["numara"] / s["sokak"] * 100, 1) if s["sokak"] else None,
+            "sokak": s["sokak"], "numara_oran": round(s["numara"] / s["sokak"] * 100, 1) if s["sokak"] >= 500 else None,
             "kadin": s["kadin"], "erkek": s["erkek"], "kadin_oran": round(s["kadin"] / kk * 100, 1) if kk >= 200 else None,
             "kisiler": s["kisiler"][:3], "kadinlar": s["kadinlar"][:3],
             "soy_ilk": guzel(soy["iller"][i][0][0]), "soy_ozel": guzel(soy["ozel"][i][0]) if soy["ozel"][i] else None,
@@ -131,14 +131,14 @@ METRIK = [
  ("net_binde", "Net göç", lambda v: f"{'+' if v > 0 else ''}{sayi(v, 1)}‰", "en çok göç alan", "en çok göç veren", "goc-haritasi"),
  ("pm", "Hava kirliliği", lambda v: f"{sayi(v, 1)} µg/m³", "havası en kirli", "havası en temiz", "kac-sigara"),
  ("deprem", "Deprem, son 365 gün", lambda v: sayi(v), "en çok deprem kaydedilen", "en az deprem kaydedilen", "turkiye-sallandi"),
- ("yangin", "Uydunun gördüğü yangın, 2025", lambda v: sayi(v), "uydunun en çok yangın gördüğü", "uydunun en az yangın gördüğü", "orman-yanginlari-uzaydan"),
+ ("yangin", "Uydunun gördüğü sıcak nokta, 2025", lambda v: sayi(v), "uydunun en çok sıcak nokta gördüğü", "uydunun en az sıcak nokta gördüğü", "orman-yanginlari-uzaydan"),
  ("isik_artis", "Gece ışığı artışı, 2012–2024", lambda v: f"{'+' if v > 0 else ''}%{sayi(v)}", "geceleri en hızlı aydınlanan", "gece ışığı en az artan", "turkiye-geceleri"),
  ("kadin_oran", "Kadın adlı sokak oranı", lambda v: f"%{sayi(v, 1)}", "sokaklarında kadın adı en sık geçen", "sokaklarında kadın adı en nadir geçen", "sokak-adlari"),
- ("numara_oran", "Yalnız numaralı sokak", lambda v: f"%{sayi(v)}", "sokakları en çok numarayla anılan", "sokakları en çok adıyla anılan", "sokak-adlari"),
+ ("numara_oran", "Yalnız numaralı sokak", lambda v: f"%{sayi(v, 1)}", "sokakları en çok numarayla anılan", "sokakları en çok adıyla anılan", "sokak-adlari"),
 ]
 ACIK = {"nufus": "2025, TÜİK", "net_binde": "2008–2025 yıllık ortalama, her 1.000 kişide. TÜİK", "pm": "Son bir yılın ince toz ortalaması. Bakanlık istasyonları",
-        "deprem": "EMSC, AFAD, Kandilli. Küçük depremleri istasyon sıklığı da etkiler", "yangin": "NASA FIRMS sıcak noktaları", "isik_artis": "VIIRS uydu görüntüleri",
-        "kadin_oran": "Açıkça bir kişiyi anan sokaklarda; en az 200 sokaklı iller. OpenStreetMap", "numara_oran": "Adı olmayan sokaklar. OpenStreetMap"}
+        "deprem": "EMSC, AFAD, Kandilli. Küçük depremleri istasyon sıklığı da etkiler", "yangin": "NASA FIRMS. Ülke genelinde yalnız %19'u orman içinde; gerisi tarla, anız ya da başka ısı kaynakları olabilir", "isik_artis": "VIIRS uydu görüntüleri",
+        "kadin_oran": "Açıkça bir kişiyi anan sokaklarda; en az 200 sokaklı iller. OpenStreetMap", "numara_oran": "Adı olmayan sokaklar; en az 500 sokaklı iller. Haritadaki etiketlemeyi de yansıtır. OpenStreetMap"}
 
 
 def siralar(iller):
@@ -187,7 +187,8 @@ def uclar(iller, S, x):
     return out[:3]
 
 
-CSS = """
+CSS = """#grid a[hidden]{display:none!important}
+
 :root{--asfalt:#20242a;--asfalt2:#2a2f36;--yazi:#f3f4f6;--soluk:#a8afb9;--cizgi:#3a4048;--sari:#ffd21f;--mavi:#0a3d91;--plaka:#fff}
 *{box-sizing:border-box}
 body{margin:0;background:var(--asfalt);color:var(--yazi);font:16px/1.55 "Barlow",system-ui,sans-serif}
@@ -267,7 +268,7 @@ def il_sayfa(x, iller, H, S, tarih):
             satir += f'<li><div><h3>{bas}</h3><small>Yeterli veri yok</small></div><div class="deger">—</div><div></div></li>'
             continue
         h3 = f'<a href="{TABAN}/{kay}/">{bas}</a>' if kay else bas
-        satir += (f'<li><div><h3>{h3}</h3><small>{ACIK[k]}</small></div><div class="deger">{bic(x[k])}</div>'
+        satir += (f'<li><div><h3>{h3}</h3><small>{ACIK[k]}{f' Bu ilde orman içinde: {sayi(x["yangin_orman"])}.' if k == "yangin" else ""}</small></div><div class="deger">{bic(x[k])}</div>'
                   f'<div class="seritk">{serit(S, k, x)}<span class="sira-yazi">{len(S[k])} il içinde, en yüksekten {r}.</span></div></li>')
     kisiler = ", ".join(f"{e(a)} ({n})" for a, n in x["kisiler"]) or "—"
     kadinlar = ", ".join(f"{e(a)} ({n})" for a, n in x["kadinlar"]) or "kayıt yok"
@@ -305,7 +306,8 @@ def ana(iller, S, tarih):
         for ifade, ters in ((yuk, False), (dus, True)):
             t = sorted((x for x in iller if x.get(k) is not None), key=lambda x: x[k], reverse=not ters)[:5]
             sat = "".join(f'<li><a href="il/{x["slug"]}/">{e(x["ad"])}</a><b>{bic(x[k])}</b></li>' for x in t)
-            en += f"<div><h3>Türkiye'nin {ifade} illeri</h3><ol>{sat}</ol></div>"
+            alt = {"pm": "PM2,5 ince toz, son bir yıl", "yangin": "2025; çoğu orman içinde değil", "numara_oran": "En az 500 sokaklı iller; OpenStreetMap etiketlemesi de etkiler", "kadin_oran": "En az 200 sokaklı iller"}.get(k, "")
+            en += f"<div><h3>Türkiye'nin {ifade} illeri</h3>" + (f'<p class="alt-not" style="margin:0 0 6px;font-size:.82rem;opacity:.8">{alt}</p>' if alt else "") + f"<ol>{sat}</ol></div>"
     return f"""<!doctype html><html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>İlin Kimliği: 81 plaka, 81 il</title><meta name="description" content="Plakana dokun: ilinin nüfusu, göçü, havası, depremi, yangını, sokak adları ve soyadları tek sayfada; 81 il içinde kaçıncı olduğuyla.">
 <meta property="og:title" content="81 plaka. Seninki hangisi?"><meta property="og:description" content="İlinin göçü, havası, depremi, sokak adları ve soyadları tek sayfada; 81 il içinde kaçıncı?"><meta property="og:image" content="{ADRES}/og/ana.png"><meta name="twitter:card" content="summary_large_image">

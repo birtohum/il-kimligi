@@ -1,3 +1,4 @@
+#grid a[hidden]{display:none!important}
 
 :root{--asfalt:#20242a;--asfalt2:#2a2f36;--yazi:#f3f4f6;--soluk:#a8afb9;--cizgi:#3a4048;--sari:#ffd21f;--mavi:#0a3d91;--plaka:#fff}
 *{box-sizing:border-box}

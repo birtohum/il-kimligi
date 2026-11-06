@@ -333,7 +333,7 @@ def main():
         k.mkdir(parents=True, exist_ok=True)
         (k / "index.html").write_text(il_sayfa(x, iller, H, S, tarih), encoding="utf-8")
     (SITE / "veri").mkdir(exist_ok=True)
-    temiz = [{k: v for k, v in x.items() if k != "d"} for x in iller]
+    temiz = [{k: v for k, v in x.items() if k != "d"} | {"uclar": uclar(iller, S, x)} for x in iller]
     (SITE / "veri" / "harita.json").write_text(json.dumps({"w": H["w"], "h": H["h"], "iller": [{"kod": i["kod"], "d": i["d"]} for i in H["iller"]]}, separators=(",", ":")), encoding="utf-8")
     (SITE / "veri" / "iller.json").write_text(json.dumps(temiz, ensure_ascii=False, indent=0), encoding="utf-8")
     al_ = ["p", "ad", "nufus", "giden", "gelen", "net", "net_binde", "pm", "deprem", "deprem_max", "yangin", "yangin_orman", "isik_artis", "sokak", "numara_oran", "kadin", "erkek", "kadin_oran", "soy_ilk", "soy_ozel", "gun21a", "bat21a", "gun21h", "bat21h"]

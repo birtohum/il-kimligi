@@ -56,7 +56,12 @@
 "bat21a": "17:25",
 "gun21h": "05:19",
 "bat21h": "20:01",
-"gun21a_dk": 468
+"gun21a_dk": 468,
+"uclar": [
+"Sokakları en çok numarayla anılan 2. il",
+"Uydunun en çok yangın gördüğü 4. il",
+"En çok deprem kaydedilen 6. il"
+]
 },
 {
 "p": 2,
@@ -107,7 +112,12 @@
 "bat21a": "17:11",
 "gun21h": "05:05",
 "bat21h": "19:52",
-"gun21a_dk": 458
+"gun21a_dk": 458,
+"uclar": [
+"Sokakları en çok numarayla anılan 3. il",
+"En çok deprem kaydedilen 10. il",
+"En çok göç veren 11. il"
+]
 },
 {
 "p": 3,
@@ -166,7 +176,12 @@
 "bat21a": "17:39",
 "gun21h": "05:33",
 "bat21h": "20:26",
-"gun21a_dk": 492
+"gun21a_dk": 492,
+"uclar": [
+"Uydunun en çok yangın gördüğü 8. il",
+"Sokaklarında kadın adı en nadir geçen 9. il",
+"Sokakları en çok numarayla anılan 23. il"
+]
 },
 {
 "p": 4,
@@ -212,7 +227,12 @@
 "bat21a": "16:46",
 "gun21h": "04:40",
 "bat21h": "19:39",
-"gun21a_dk": 445
+"gun21a_dk": 445,
+"uclar": [
+"Türkiye'nin en çok göç veren ili",
+"Sokakları en çok numarayla anılan 8. il",
+"Geceleri en hızlı aydınlanan 14. il"
+]
 },
 {
 "p": 5,
@@ -271,7 +291,12 @@
 "bat21a": "17:12",
 "gun21h": "05:05",
 "bat21h": "20:11",
-"gun21a_dk": 477
+"gun21a_dk": 477,
+"uclar": [
+"Sokakları en çok adıyla anılan 2. il",
+"Havası en kirli 4. il",
+"Sokaklarında kadın adı en sık geçen 11. il"
+]
 },
 {
 "p": 6,
@@ -330,7 +355,12 @@
 "bat21a": "17:26",
 "gun21h": "05:20",
 "bat21h": "20:20",
-"gun21a_dk": 486
+"gun21a_dk": 486,
+"uclar": [
+"Gece ışığı en az artan 4. il",
+"En çok göç alan 9. il",
+"Sokaklarında kadın adı en nadir geçen 10. il"
+]
 },
 {
 "p": 7,
@@ -389,7 +419,12 @@
 "bat21a": "17:44",
 "gun21h": "05:38",
 "bat21h": "20:19",
-"gun21a_dk": 486
+"gun21a_dk": 486,
+"uclar": [
+"En çok göç alan 5. il",
+"Sokaklarında kadın adı en nadir geçen 14. il",
+"Sokakları en çok numarayla anılan 14. il"
+]
 },
 {
 "p": 8,
@@ -444,7 +479,12 @@
 "bat21a": "16:47",
 "gun21h": "04:40",
 "bat21h": "19:48",
-"gun21a_dk": 454
+"gun21a_dk": 454,
+"uclar": [
+"Uydunun en az yangın gördüğü 3. il",
+"Havası en temiz 11. il",
+"En az deprem kaydedilen 22. il"
+]
 },
 {
 "p": 9,
@@ -503,7 +543,12 @@
 "bat21a": "17:53",
 "gun21h": "05:46",
 "bat21h": "20:34",
-"gun21a_dk": 500
+"gun21a_dk": 500,
+"uclar": [
+"En çok göç alan 11. il",
+"Gece ışığı en az artan 11. il",
+"Sokaklarında kadın adı en nadir geçen 16. il"
+]
 },
 {
 "p": 10,
@@ -562,7 +607,12 @@
 "bat21a": "17:47",
 "gun21h": "05:40",
 "bat21h": "20:39",
-"gun21a_dk": 505
+"gun21a_dk": 505,
+"uclar": [
+"Türkiye'nin en çok deprem kaydedilen ili",
+"Sokaklarında kadın adı en sık geçen 2. il",
+"En çok göç alan 16. il"
+]
 },
 {
 "p": 11,
@@ -613,7 +663,12 @@
 "bat21a": "17:37",
 "gun21h": "05:30",
 "bat21h": "20:32",
-"gun21a_dk": 499
+"gun21a_dk": 499,
+"uclar": [
+"Sokakları en çok adıyla anılan 8. il",
+"Uydunun en çok yangın gördüğü 15. il",
+"Gece ışığı en az artan 17. il"
+]
 },
 {
 "p": 12,
@@ -659,7 +714,12 @@
 "bat21a": "16:59",
 "gun21h": "04:52",
 "bat21h": "19:46",
-"gun21a_dk": 453
+"gun21a_dk": 453,
+"uclar": [
+"Geceleri en hızlı aydınlanan 8. il",
+"Sokakları en çok adıyla anılan 16. il",
+"En çok deprem kaydedilen 19. il"
+]
 },
 {
 "p": 13,
@@ -705,7 +765,12 @@
 "bat21a": "16:54",
 "gun21h": "04:47",
 "bat21h": "19:38",
-"gun21a_dk": 445
+"gun21a_dk": 445,
+"uclar": [
+"En çok göç veren 8. il",
+"Sokakları en çok adıyla anılan 15. il",
+"Geceleri en hızlı aydınlanan 16. il"
+]
 },
 {
 "p": 14,
@@ -756,7 +821,12 @@
 "bat21a": "17:29",
 "gun21h": "05:22",
 "bat21h": "20:28",
-"gun21a_dk": 494
+"gun21a_dk": 494,
+"uclar": [
+"En çok göç alan 10. il",
+"Uydunun en az yangın gördüğü 14. il",
+"Sokakları en çok adıyla anılan 19. il"
+]
 },
 {
 "p": 15,
@@ -802,7 +872,12 @@
 "bat21a": "17:43",
 "gun21h": "05:37",
 "bat21h": "20:23",
-"gun21a_dk": 490
+"gun21a_dk": 490,
+"uclar": [
+"Uydunun en az yangın gördüğü 18. il",
+"Havası en temiz 23. il",
+"Sokakları en çok adıyla anılan 24. il"
+]
 },
 {
 "p": 16,
@@ -861,7 +936,12 @@
 "bat21a": "17:41",
 "gun21h": "05:34",
 "bat21h": "20:36",
-"gun21a_dk": 502
+"gun21a_dk": 502,
+"uclar": [
+"Havası en kirli 7. il",
+"Gece ışığı en az artan 7. il",
+"En çok göç alan 12. il"
+]
 },
 {
 "p": 17,
@@ -920,7 +1000,12 @@
 "bat21a": "17:52",
 "gun21h": "05:45",
 "bat21h": "20:47",
-"gun21a_dk": 513
+"gun21a_dk": 513,
+"uclar": [
+"En çok göç alan 6. il",
+"Sokaklarında kadın adı en sık geçen 9. il",
+"Uydunun en çok yangın gördüğü 10. il"
+]
 },
 {
 "p": 18,
@@ -979,7 +1064,12 @@
 "bat21a": "17:22",
 "gun21h": "05:15",
 "bat21h": "20:20",
-"gun21a_dk": 486
+"gun21a_dk": 486,
+"uclar": [
+"Türkiye'nin havası en temiz ili",
+"Sokakları en çok adıyla anılan 5. il",
+"Geceleri en hızlı aydınlanan 13. il"
+]
 },
 {
 "p": 19,
@@ -1030,7 +1120,12 @@
 "bat21a": "17:16",
 "gun21h": "05:09",
 "bat21h": "20:14",
-"gun21a_dk": 480
+"gun21a_dk": 480,
+"uclar": [
+"Sokakları en çok adıyla anılan 12. il",
+"En çok göç veren 14. il",
+"Havası en kirli 18. il"
+]
 },
 {
 "p": 20,
@@ -1089,7 +1184,12 @@
 "bat21a": "17:48",
 "gun21h": "05:41",
 "bat21h": "20:28",
-"gun21a_dk": 495
+"gun21a_dk": 495,
+"uclar": [
+"Sokakları en çok numarayla anılan 6. il",
+"En çok deprem kaydedilen 8. il",
+"Gece ışığı en az artan 9. il"
+]
 },
 {
 "p": 21,
@@ -1148,7 +1248,12 @@
 "bat21a": "17:03",
 "gun21h": "04:57",
 "bat21h": "19:44",
-"gun21a_dk": 451
+"gun21a_dk": 451,
+"uclar": [
+"Uydunun en çok yangın gördüğü 5. il",
+"Havası en kirli 8. il",
+"Sokakları en çok numarayla anılan 10. il"
+]
 },
 {
 "p": 22,
@@ -1207,7 +1312,12 @@
 "bat21a": "17:46",
 "gun21h": "05:39",
 "bat21h": "20:51",
-"gun21a_dk": 517
+"gun21a_dk": 517,
+"uclar": [
+"Sokaklarında kadın adı en sık geçen 4. il",
+"En az deprem kaydedilen 9. il",
+"Havası en kirli 13. il"
+]
 },
 {
 "p": 23,
@@ -1258,7 +1368,12 @@
 "bat21a": "17:05",
 "gun21h": "04:58",
 "bat21h": "19:51",
-"gun21a_dk": 457
+"gun21a_dk": 457,
+"uclar": [
+"En çok deprem kaydedilen 11. il",
+"Sokakları en çok adıyla anılan 29. il",
+"En çok göç veren 34. il"
+]
 },
 {
 "p": 24,
@@ -1313,7 +1428,12 @@
 "bat21a": "17:00",
 "gun21h": "04:54",
 "bat21h": "19:53",
-"gun21a_dk": 459
+"gun21a_dk": 459,
+"uclar": [
+"Havası en temiz 15. il",
+"En çok deprem kaydedilen 17. il",
+"Uydunun en az yangın gördüğü 19. il"
+]
 },
 {
 "p": 25,
@@ -1368,7 +1488,12 @@
 "bat21a": "16:53",
 "gun21h": "04:46",
 "bat21h": "19:46",
-"gun21a_dk": 453
+"gun21a_dk": 453,
+"uclar": [
+"En çok göç veren 6. il",
+"En çok deprem kaydedilen 15. il",
+"Havası en kirli 17. il"
+]
 },
 {
 "p": 26,
@@ -1427,7 +1552,12 @@
 "bat21a": "17:36",
 "gun21h": "05:29",
 "bat21h": "20:29",
-"gun21a_dk": 495
+"gun21a_dk": 495,
+"uclar": [
+"En çok göç alan 7. il",
+"Havası en temiz 10. il",
+"Sokakları en çok adıyla anılan 12. il"
+]
 },
 {
 "p": 27,
@@ -1486,7 +1616,12 @@
 "bat21a": "17:17",
 "gun21h": "05:10",
 "bat21h": "19:53",
-"gun21a_dk": 460
+"gun21a_dk": 460,
+"uclar": [
+"Sokakları en çok numarayla anılan 12. il",
+"En çok deprem kaydedilen 28. il",
+"Uydunun en çok yangın gördüğü 31. il"
+]
 },
 {
 "p": 28,
@@ -1545,7 +1680,12 @@
 "bat21a": "17:01",
 "gun21h": "04:54",
 "bat21h": "20:01",
-"gun21a_dk": 467
+"gun21a_dk": 467,
+"uclar": [
+"Uydunun en az yangın gördüğü 6. il",
+"Havası en temiz 8. il",
+"Sokakları en çok adıyla anılan 9. il"
+]
 },
 {
 "p": 29,
@@ -1600,7 +1740,12 @@
 "bat21a": "16:58",
 "gun21h": "04:51",
 "bat21h": "19:55",
-"gun21a_dk": 462
+"gun21a_dk": 462,
+"uclar": [
+"Sokakları en çok adıyla anılan 4. il",
+"Geceleri en hızlı aydınlanan 6. il",
+"Uydunun en az yangın gördüğü 9. il"
+]
 },
 {
 "p": 30,
@@ -1646,7 +1791,12 @@
 "bat21a": "16:50",
 "gun21h": "04:43",
 "bat21h": "19:29",
-"gun21a_dk": 436
+"gun21a_dk": 436,
+"uclar": [
+"Geceleri en hızlı aydınlanan 9. il",
+"En çok göç veren 10. il",
+"En az deprem kaydedilen 22. il"
+]
 },
 {
 "p": 31,
@@ -1705,7 +1855,12 @@
 "bat21a": "17:24",
 "gun21h": "05:18",
 "bat21h": "19:56",
-"gun21a_dk": 462
+"gun21a_dk": 462,
+"uclar": [
+"Havası en temiz 10. il",
+"Uydunun en çok yangın gördüğü 13. il",
+"En çok göç veren 15. il"
+]
 },
 {
 "p": 32,
@@ -1764,7 +1919,12 @@
 "bat21a": "17:42",
 "gun21h": "05:36",
 "bat21h": "20:23",
-"gun21a_dk": 489
+"gun21a_dk": 489,
+"uclar": [
+"Sokakları en çok numarayla anılan 4. il",
+"En çok göç alan 28. il",
+"Gece ışığı en az artan 28. il"
+]
 },
 {
 "p": 33,
@@ -1823,7 +1983,12 @@
 "bat21a": "17:29",
 "gun21h": "05:22",
 "bat21h": "20:03",
-"gun21a_dk": 470
+"gun21a_dk": 470,
+"uclar": [
+"Sokakları en çok numarayla anılan 7. il",
+"Uydunun en çok yangın gördüğü 9. il",
+"Sokaklarında kadın adı en nadir geçen 12. il"
+]
 },
 {
 "p": 34,
@@ -1882,7 +2047,12 @@
 "bat21a": "17:39",
 "gun21h": "05:32",
 "bat21h": "20:39",
-"gun21a_dk": 505
+"gun21a_dk": 505,
+"uclar": [
+"Türkiye'nin gece ışığı en az artan ili",
+"Türkiye'nin nüfusu en kalabalık ili",
+"Sokaklarında kadın adı en sık geçen 10. il"
+]
 },
 {
 "p": 35,
@@ -1941,7 +2111,12 @@
 "bat21a": "17:54",
 "gun21h": "05:47",
 "bat21h": "20:38",
-"gun21a_dk": 505
+"gun21a_dk": 505,
+"uclar": [
+"Havası en kirli 2. il",
+"Gece ışığı en az artan 2. il",
+"Uydunun en çok yangın gördüğü 3. il"
+]
 },
 {
 "p": 36,
@@ -1996,7 +2171,12 @@
 "bat21a": "16:43",
 "gun21h": "04:36",
 "bat21h": "19:41",
-"gun21a_dk": 448
+"gun21a_dk": 448,
+"uclar": [
+"En çok göç veren 3. il",
+"Havası en kirli 19. il",
+"Uydunun en az yangın gördüğü 21. il"
+]
 },
 {
 "p": 37,
@@ -2055,7 +2235,12 @@
 "bat21a": "17:18",
 "gun21h": "05:11",
 "bat21h": "20:21",
-"gun21a_dk": 487
+"gun21a_dk": 487,
+"uclar": [
+"Geceleri en hızlı aydınlanan 7. il",
+"Sokakları en çok adıyla anılan 7. il",
+"En çok göç alan 21. il"
+]
 },
 {
 "p": 38,
@@ -2114,7 +2299,12 @@
 "bat21a": "17:20",
 "gun21h": "05:13",
 "bat21h": "20:06",
-"gun21a_dk": 472
+"gun21a_dk": 472,
+"uclar": [
+"Sokaklarında kadın adı en nadir geçen 6. il",
+"Havası en temiz 8. il",
+"En çok deprem kaydedilen 14. il"
+]
 },
 {
 "p": 39,
@@ -2173,7 +2363,12 @@
 "bat21a": "17:43",
 "gun21h": "05:36",
 "bat21h": "20:49",
-"gun21a_dk": 515
+"gun21a_dk": 515,
+"uclar": [
+"Sokaklarında kadın adı en sık geçen 3. il",
+"Havası en temiz 4. il",
+"En çok göç alan 13. il"
+]
 },
 {
 "p": 40,
@@ -2232,7 +2427,12 @@
 "bat21a": "17:24",
 "gun21h": "05:17",
 "bat21h": "20:12",
-"gun21a_dk": 479
+"gun21a_dk": 479,
+"uclar": [
+"Havası en temiz 2. il",
+"Sokakları en çok numarayla anılan 11. il",
+"Geceleri en hızlı aydınlanan 24. il"
+]
 },
 {
 "p": 41,
@@ -2291,7 +2491,12 @@
 "bat21a": "17:35",
 "gun21h": "05:28",
 "bat21h": "20:35",
-"gun21a_dk": 501
+"gun21a_dk": 501,
+"uclar": [
+"Gece ışığı en az artan 3. il",
+"En çok göç alan 4. il",
+"Sokaklarında kadın adı en sık geçen 12. il"
+]
 },
 {
 "p": 42,
@@ -2350,7 +2555,12 @@
 "bat21a": "17:34",
 "gun21h": "05:28",
 "bat21h": "20:15",
-"gun21a_dk": 482
+"gun21a_dk": 482,
+"uclar": [
+"Uydunun en çok yangın gördüğü 6. il",
+"Sokaklarında kadın adı en nadir geçen 11. il",
+"Havası en kirli 14. il"
+]
 },
 {
 "p": 43,
@@ -2409,7 +2619,12 @@
 "bat21a": "17:39",
 "gun21h": "05:33",
 "bat21h": "20:30",
-"gun21a_dk": 496
+"gun21a_dk": 496,
+"uclar": [
+"En çok deprem kaydedilen 3. il",
+"Sokaklarında kadın adı en nadir geçen 8. il",
+"Uydunun en az yangın gördüğü 13. il"
+]
 },
 {
 "p": 44,
@@ -2464,7 +2679,12 @@
 "bat21a": "17:09",
 "gun21h": "05:03",
 "bat21h": "19:53",
-"gun21a_dk": 460
+"gun21a_dk": 460,
+"uclar": [
+"En çok deprem kaydedilen 2. il",
+"En çok göç veren 19. il",
+"Sokakları en çok adıyla anılan 21. il"
+]
 },
 {
 "p": 45,
@@ -2523,7 +2743,12 @@
 "bat21a": "17:52",
 "gun21h": "05:46",
 "bat21h": "20:38",
-"gun21a_dk": 504
+"gun21a_dk": 504,
+"uclar": [
+"En çok deprem kaydedilen 7. il",
+"Uydunun en çok yangın gördüğü 14. il",
+"Havası en temiz 17. il"
+]
 },
 {
 "p": 46,
@@ -2582,7 +2807,12 @@
 "bat21a": "17:17",
 "gun21h": "05:11",
 "bat21h": "19:56",
-"gun21a_dk": 463
+"gun21a_dk": 463,
+"uclar": [
+"Sokaklarında kadın adı en nadir geçen 2. il",
+"En çok deprem kaydedilen 4. il",
+"Uydunun en çok yangın gördüğü 7. il"
+]
 },
 {
 "p": 47,
@@ -2641,7 +2871,12 @@
 "bat21a": "17:03",
 "gun21h": "04:56",
 "bat21h": "19:40",
-"gun21a_dk": 447
+"gun21a_dk": 447,
+"uclar": [
+"Uydunun en çok yangın gördüğü 2. il",
+"En çok göç veren 13. il",
+"Sokakları en çok numarayla anılan 17. il"
+]
 },
 {
 "p": 48,
@@ -2700,7 +2935,12 @@
 "bat21a": "17:52",
 "gun21h": "05:46",
 "bat21h": "20:30",
-"gun21a_dk": 496
+"gun21a_dk": 496,
+"uclar": [
+"En çok göç alan 3. il",
+"En çok deprem kaydedilen 5. il",
+"Sokaklarında kadın adı en sık geçen 7. il"
+]
 },
 {
 "p": 49,
@@ -2746,7 +2986,12 @@
 "bat21a": "16:55",
 "gun21h": "04:49",
 "bat21h": "19:42",
-"gun21a_dk": 448
+"gun21a_dk": 448,
+"uclar": [
+"En çok göç veren 2. il",
+"Geceleri en hızlı aydınlanan 2. il",
+"Uydunun en az yangın gördüğü 31. il"
+]
 },
 {
 "p": 50,
@@ -2805,7 +3050,12 @@
 "bat21a": "17:23",
 "gun21h": "05:16",
 "bat21h": "20:09",
-"gun21a_dk": 475
+"gun21a_dk": 475,
+"uclar": [
+"Sokaklarında kadın adı en nadir geçen 4. il",
+"En az deprem kaydedilen 5. il",
+"Uydunun en az yangın gördüğü 25. il"
+]
 },
 {
 "p": 51,
@@ -2856,7 +3106,12 @@
 "bat21a": "17:25",
 "gun21h": "05:19",
 "bat21h": "20:07",
-"gun21a_dk": 473
+"gun21a_dk": 473,
+"uclar": [
+"Havası en temiz 22. il",
+"En az deprem kaydedilen 26. il",
+"Uydunun en az yangın gördüğü 27. il"
+]
 },
 {
 "p": 52,
@@ -2915,7 +3170,12 @@
 "bat21a": "17:03",
 "gun21h": "04:56",
 "bat21h": "20:04",
-"gun21a_dk": 470
+"gun21a_dk": 470,
+"uclar": [
+"Türkiye'nin sokaklarında kadın adı en sık geçen ili",
+"En az deprem kaydedilen 2. il",
+"Uydunun en az yangın gördüğü 4. il"
+]
 },
 {
 "p": 53,
@@ -2966,7 +3226,12 @@
 "bat21a": "16:52",
 "gun21h": "04:45",
 "bat21h": "19:53",
-"gun21a_dk": 459
+"gun21a_dk": 459,
+"uclar": [
+"Havası en temiz 3. il",
+"En az deprem kaydedilen 7. il",
+"Uydunun en az yangın gördüğü 7. il"
+]
 },
 {
 "p": 54,
@@ -3025,7 +3290,12 @@
 "bat21a": "17:34",
 "gun21h": "05:27",
 "bat21h": "20:33",
-"gun21a_dk": 499
+"gun21a_dk": 499,
+"uclar": [
+"En çok göç alan 8. il",
+"Havası en kirli 10. il",
+"Gece ışığı en az artan 13. il"
+]
 },
 {
 "p": 55,
@@ -3084,7 +3354,12 @@
 "bat21a": "17:08",
 "gun21h": "05:01",
 "bat21h": "20:11",
-"gun21a_dk": 477
+"gun21a_dk": 477,
+"uclar": [
+"Sokaklarında kadın adı en nadir geçen 7. il",
+"En az deprem kaydedilen 14. il",
+"Havası en temiz 19. il"
+]
 },
 {
 "p": 56,
@@ -3130,7 +3405,12 @@
 "bat21a": "16:56",
 "gun21h": "04:50",
 "bat21h": "19:37",
-"gun21a_dk": 444
+"gun21a_dk": 444,
+"uclar": [
+"En çok göç veren 9. il",
+"Geceleri en hızlı aydınlanan 20. il",
+"En az deprem kaydedilen 27. il"
+]
 },
 {
 "p": 57,
@@ -3181,7 +3461,12 @@
 "bat21a": "17:11",
 "gun21h": "05:03",
 "bat21h": "20:18",
-"gun21a_dk": 484
+"gun21a_dk": 484,
+"uclar": [
+"En az deprem kaydedilen 4. il",
+"En çok göç alan 14. il",
+"Uydunun en az yangın gördüğü 15. il"
+]
 },
 {
 "p": 58,
@@ -3240,7 +3525,12 @@
 "bat21a": "17:10",
 "gun21h": "05:04",
 "bat21h": "20:03",
-"gun21a_dk": 469
+"gun21a_dk": 469,
+"uclar": [
+"Türkiye'nin sokaklarında kadın adı en nadir geçen ili",
+"Sokakları en çok numarayla anılan 16. il",
+"Geceleri en hızlı aydınlanan 18. il"
+]
 },
 {
 "p": 59,
@@ -3299,7 +3589,12 @@
 "bat21a": "17:45",
 "gun21h": "05:37",
 "bat21h": "20:45",
-"gun21a_dk": 511
+"gun21a_dk": 511,
+"uclar": [
+"Türkiye'nin en çok göç alan ili",
+"Sokaklarında kadın adı en sık geçen 5. il",
+"Uydunun en çok yangın gördüğü 18. il"
+]
 },
 {
 "p": 60,
@@ -3358,7 +3653,12 @@
 "bat21a": "17:10",
 "gun21h": "05:04",
 "bat21h": "20:07",
-"gun21a_dk": 473
+"gun21a_dk": 473,
+"uclar": [
+"Sokaklarında kadın adı en nadir geçen 3. il",
+"Sokakları en çok adıyla anılan 3. il",
+"Havası en kirli 11. il"
+]
 },
 {
 "p": 61,
@@ -3417,7 +3717,12 @@
 "bat21a": "16:56",
 "gun21h": "04:49",
 "bat21h": "19:56",
-"gun21a_dk": 462
+"gun21a_dk": 462,
+"uclar": [
+"Sokaklarında kadın adı en nadir geçen 6. il",
+"Uydunun en az yangın gördüğü 8. il",
+"En az deprem kaydedilen 17. il"
+]
 },
 {
 "p": 62,
@@ -3476,7 +3781,12 @@
 "bat21a": "17:02",
 "gun21h": "04:56",
 "bat21h": "19:51",
-"gun21a_dk": 457
+"gun21a_dk": 457,
+"uclar": [
+"Gece ışığı en az artan 5. il",
+"Uydunun en az yangın gördüğü 10. il",
+"En çok göç alan 26. il"
+]
 },
 {
 "p": 63,
@@ -3531,7 +3841,12 @@
 "bat21a": "17:11",
 "gun21h": "05:05",
 "bat21h": "19:48",
-"gun21a_dk": 455
+"gun21a_dk": 455,
+"uclar": [
+"Türkiye'nin uydunun en çok yangın gördüğü ili",
+"Havası en kirli 5. il",
+"Sokakları en çok numarayla anılan 15. il"
+]
 },
 {
 "p": 64,
@@ -3590,7 +3905,12 @@
 "bat21a": "17:44",
 "gun21h": "05:37",
 "bat21h": "20:30",
-"gun21a_dk": 496
+"gun21a_dk": 496,
+"uclar": [
+"Sokakları en çok adıyla anılan 13. il",
+"Gece ışığı en az artan 29. il",
+"En çok göç alan 32. il"
+]
 },
 {
 "p": 65,
@@ -3636,7 +3956,12 @@
 "bat21a": "16:48",
 "gun21h": "04:42",
 "bat21h": "19:33",
-"gun21a_dk": 440
+"gun21a_dk": 440,
+"uclar": [
+"En çok göç veren 7. il",
+"En çok deprem kaydedilen 19. il",
+"Uydunun en az yangın gördüğü 24. il"
+]
 },
 {
 "p": 66,
@@ -3691,7 +4016,12 @@
 "bat21a": "17:19",
 "gun21h": "05:12",
 "bat21h": "20:12",
-"gun21a_dk": 478
+"gun21a_dk": 478,
+"uclar": [
+"En çok göç veren 5. il",
+"Havası en temiz 8. il",
+"Geceleri en hızlı aydınlanan 11. il"
+]
 },
 {
 "p": 67,
@@ -3750,7 +4080,12 @@
 "bat21a": "17:26",
 "gun21h": "05:19",
 "bat21h": "20:30",
-"gun21a_dk": 495
+"gun21a_dk": 495,
+"uclar": [
+"En az deprem kaydedilen 4. il",
+"Sokakları en çok adıyla anılan 7. il",
+"Gece ışığı en az artan 8. il"
+]
 },
 {
 "p": 68,
@@ -3796,7 +4131,12 @@
 "bat21a": "17:26",
 "gun21h": "05:20",
 "bat21h": "20:11",
-"gun21a_dk": 477
+"gun21a_dk": 477,
+"uclar": [
+"Geceleri en hızlı aydınlanan 3. il",
+"Havası en kirli 14. il",
+"En az deprem kaydedilen 19. il"
+]
 },
 {
 "p": 69,
@@ -3842,7 +4182,12 @@
 "bat21a": "16:56",
 "gun21h": "04:49",
 "bat21h": "19:52",
-"gun21a_dk": 458
+"gun21a_dk": 458,
+"uclar": [
+"Türkiye'nin nüfusu en az ili",
+"Geceleri en hızlı aydınlanan 5. il",
+"Sokakları en çok adıyla anılan 10. il"
+]
 },
 {
 "p": 70,
@@ -3888,7 +4233,12 @@
 "bat21a": "17:33",
 "gun21h": "05:27",
 "bat21h": "20:10",
-"gun21a_dk": 477
+"gun21a_dk": 477,
+"uclar": [
+"Geceleri en hızlı aydınlanan 10. il",
+"Havası en temiz 12. il",
+"En az deprem kaydedilen 14. il"
+]
 },
 {
 "p": 71,
@@ -3943,7 +4293,12 @@
 "bat21a": "17:24",
 "gun21h": "05:17",
 "bat21h": "20:17",
-"gun21a_dk": 483
+"gun21a_dk": 483,
+"uclar": [
+"Havası en temiz 5. il",
+"Sokakları en çok numarayla anılan 13. il",
+"Uydunun en az yangın gördüğü 23. il"
+]
 },
 {
 "p": 72,
@@ -3998,7 +4353,12 @@
 "bat21a": "16:59",
 "gun21h": "04:53",
 "bat21h": "19:41",
-"gun21a_dk": 447
+"gun21a_dk": 447,
+"uclar": [
+"Türkiye'nin sokakları en çok numarayla anılan ili",
+"Havası en kirli 9. il",
+"En az deprem kaydedilen 12. il"
+]
 },
 {
 "p": 73,
@@ -4057,7 +4417,12 @@
 "bat21a": "16:55",
 "gun21h": "04:49",
 "bat21h": "19:34",
-"gun21a_dk": 441
+"gun21a_dk": 441,
+"uclar": [
+"Havası en kirli 3. il",
+"En az deprem kaydedilen 18. il",
+"Gece ışığı en az artan 18. il"
+]
 },
 {
 "p": 74,
@@ -4108,7 +4473,12 @@
 "bat21a": "17:23",
 "gun21h": "05:16",
 "bat21h": "20:28",
-"gun21a_dk": 494
+"gun21a_dk": 494,
+"uclar": [
+"En az deprem kaydedilen 6. il",
+"Uydunun en az yangın gördüğü 12. il",
+"En çok göç alan 20. il"
+]
 },
 {
 "p": 75,
@@ -4159,7 +4529,12 @@
 "bat21a": "16:43",
 "gun21h": "04:36",
 "bat21h": "19:45",
-"gun21a_dk": 451
+"gun21a_dk": 451,
+"uclar": [
+"Türkiye'nin geceleri en hızlı aydınlanan ili",
+"Uydunun en az yangın gördüğü 3. il",
+"En çok göç veren 4. il"
+]
 },
 {
 "p": 76,
@@ -4214,7 +4589,12 @@
 "bat21a": "16:42",
 "gun21h": "04:35",
 "bat21h": "19:35",
-"gun21a_dk": 442
+"gun21a_dk": 442,
+"uclar": [
+"Türkiye'nin havası en kirli ili",
+"Geceleri en hızlı aydınlanan 4. il",
+"En az deprem kaydedilen 8. il"
+]
 },
 {
 "p": 77,
@@ -4273,7 +4653,12 @@
 "bat21a": "17:39",
 "gun21h": "05:32",
 "bat21h": "20:37",
-"gun21a_dk": 503
+"gun21a_dk": 503,
+"uclar": [
+"En çok göç alan 2. il",
+"Uydunun en az yangın gördüğü 3. il",
+"Sokakları en çok adıyla anılan 14. il"
+]
 },
 {
 "p": 78,
@@ -4324,7 +4709,12 @@
 "bat21a": "17:23",
 "gun21h": "05:16",
 "bat21h": "20:25",
-"gun21a_dk": 491
+"gun21a_dk": 491,
+"uclar": [
+"En az deprem kaydedilen 10. il",
+"Uydunun en çok yangın gördüğü 11. il",
+"En çok göç alan 22. il"
+]
 },
 {
 "p": 79,
@@ -4370,7 +4760,12 @@
 "bat21a": "17:19",
 "gun21h": "05:13",
 "bat21h": "19:53",
-"gun21a_dk": 460
+"gun21a_dk": 460,
+"uclar": [
+"Türkiye'nin en az deprem kaydedilen ili",
+"Sokakları en çok adıyla anılan 2. il",
+"Uydunun en az yangın gördüğü 17. il"
+]
 },
 {
 "p": 80,
@@ -4425,7 +4820,12 @@
 "bat21a": "17:21",
 "gun21h": "05:15",
 "bat21h": "19:58",
-"gun21a_dk": 464
+"gun21a_dk": 464,
+"uclar": [
+"Sokakları en çok numarayla anılan 9. il",
+"Uydunun en çok yangın gördüğü 20. il",
+"En çok deprem kaydedilen 34. il"
+]
 },
 {
 "p": 81,
@@ -4484,6 +4884,11 @@
 "bat21a": "17:30",
 "gun21h": "05:23",
 "bat21h": "20:30",
-"gun21a_dk": 496
+"gun21a_dk": 496,
+"uclar": [
+"Havası en kirli 6. il",
+"Uydunun en az yangın gördüğü 6. il",
+"Gece ışığı en az artan 6. il"
+]
 }
 ]
